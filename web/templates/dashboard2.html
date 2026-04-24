@@ -218,8 +218,8 @@
         html += '<thead><tr>';
         html += '<th data-col="0" onclick="sortTable(\'' + containerId + '\', 0, \'' + type + '\')"># <span class="sort-icon">↕</span></th>';
         html += '<th data-col="1" onclick="sortTable(\'' + containerId + '\', 1, \'' + type + '\')">Hisse <span class="sort-icon">↕</span></th>';
-        html += '<th data-col="2" onclick="sortTable(\'' + containerId + '\', 2, \'' + type + '\')">' + (type === 'buy' ? 'Net Alim (TL)' : 'Net Satim (TL)') + ' <span class="sort-icon">↕</span></th>';
-        html += '<th data-col="3" onclick="sortTable(\'' + containerId + '\', 3, \'' + type + '\')">Dolasimdaki Hisseye Oran (%) <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="2" onclick="sortTable(\'' + containerId + '\', 2, \'' + type + '\')">' + (type === 'buy' ? 'Net Alım (TL)' : 'Net Satım (TL)') + ' <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="3" onclick="sortTable(\'' + containerId + '\', 3, \'' + type + '\')">Dolaşımdaki Hisseye Oranı (%) <span class="sort-icon">↕</span></th>';
         html += '</tr></thead>';
         html += '<tbody id="tbody-' + containerId + '">';
         for (let i = 0; i < data.length; i++) {
@@ -309,8 +309,8 @@
         html += '<thead><tr>';
         html += '<th data-col="0" onclick="sortYTDTable(0)"># <span class="sort-icon">↕</span></th>';
         html += '<th data-col="1" onclick="sortYTDTable(1)">Hisse <span class="sort-icon">↕</span></th>';
-        html += '<th data-col="2" onclick="sortYTDTable(2)">Yilbasindan Beri Net Alim (TL) <span class="sort-icon">↕</span></th>';
-        html += '<th data-col="3" onclick="sortYTDTable(3)">Dolasimdaki Hisseye Oran (%) <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="2" onclick="sortYTDTable(2)">Yılbaşından Beri Net Alım (TL) <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="3" onclick="sortYTDTable(3)">Dolaşımdaki Hisseye Oranı (%) <span class="sort-icon">↕</span></th>';
         html += '</tr></thead>';
         html += '<tbody id="tbody-ytd">';
         for (let i = 0; i < data.length; i++) {
@@ -403,7 +403,7 @@
         html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">Hisse</th>';
         html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">' + month1 + '</th>';
         html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">' + month2 + '</th>';
-        html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">Degisim</th>';
+        html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">Değişim</th>';
         html += '</tr></thead>';
         html += '<tbody>';
         for (let i = 0; i < data.length; i++) {
