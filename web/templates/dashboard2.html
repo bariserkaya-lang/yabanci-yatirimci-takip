@@ -131,39 +131,39 @@
     <div class="date-selector">
         <select id="monthSelect"><option value="">Ay Secin</option></select>
         <button onclick="loadData()">Verileri Getir</button>
-        <button onclick="toggleCompare()">Iki Ay Karsilastir</button>
+        <button onclick="toggleCompare()">İki Ay Karşılaştır</button>
     </div>
 
     <div class="grid-2">
         <div class="card">
-            <h2>En Cok Net Alim</h2>
+            <h2>En çok Net Alım</h2>
             <div class="table-wrapper"><div id="buyersTable">Ay secin</div></div>
         </div>
         <div class="card">
-            <h2>En Cok Net Satim</h2>
+            <h2>En Çok Net Satım</h2>
             <div class="table-wrapper"><div id="sellersTable">Ay secin</div></div>
         </div>
     </div>
 
     <div class="card ytd-card">
-        <h2>Yilbasindan Beri En Cok Net Alim (2026)</h2>
+        <h2>Yılbaşından Beri En Çok Net Alım (2026)</h2>
         <div class="table-wrapper"><div id="ytdTable">Yukleniyor...</div></div>
     </div>
 
     <div id="comparePanel" style="display:none;" class="compare-section">
-        <h2 style="color:white;">Iki Ay Karsilastirmasi</h2>
+        <h2 style="color:white;">İki Ay Karşılaştırması</h2>
         <div style="display:flex; gap:20px; margin-bottom:20px; flex-wrap:wrap;">
             <select id="compareMonth1" style="background:#1a1a3e; color:white; padding:10px; border-radius:8px; border:1px solid #4f46e5;"><option value="">1. Ay Secin</option></select>
             <select id="compareMonth2" style="background:#1a1a3e; color:white; padding:10px; border-radius:8px; border:1px solid #4f46e5;"><option value="">2. Ay Secin</option></select>
             <button onclick="loadCompare()" style="background:#4f46e5; color:white; padding:10px 24px; border:none; border-radius:8px; cursor:pointer;">Karsilastir</button>
         </div>
         <div class="table-wrapper">
-            <div id="compareTable" style="background:#1a1a3e; color:#e0e0e0; padding:20px; border-radius:12px; text-align:center;">Karsilastirma yapin</div>
+            <div id="compareTable" style="background:#1a1a3e; color:#e0e0e0; padding:20px; border-radius:12px; text-align:center;">Karşılaştırma yapın</div>
         </div>
     </div>
 
     <div class="footer">
-        Hisse koduna tiklayarak detayli grafik goruntuleyin | Sutun basliklarina tiklayarak siralama yapabilirsiniz | Kaynak: BIST
+        Hisse koduna tıklayarak detaylı grafik görüntüleyin | Sütun başlıklarına tiklayarak sıralama yapabilirsiniz | Kaynak: BIST
     </div>
 </div>
 
