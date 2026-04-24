@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Yabancı Yatırımcı Takip Sistemi</title>
+    <script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container { max-width: 1400px; margin: 0 auto; }
+        .header { text-align: center; margin-bottom: 40px; }
+        .header h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #fff, #a8c0ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .header p { color: #a0a0b8; margin-top: 10px; }
+        .date-selector {
+            background: rgba(30, 30, 50, 0.95);
+            border-radius: 20px;
+            padding: 20px;
+            margin-bottom: 30px;
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .date-selector select, .date-selector button {
+            padding: 12px 24px;
+            background: rgba(0,0,0,0.4);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 12px;
+            color: white;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+        .date-selector button {
+            background: linear-gradient(135deg, #4f46e5, #7c3aed);
+            border: none;
+            font-weight: 600;
+        }
+        .date-selector button:hover { transform: scale(1.02); }
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(550px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+        .card {
+            background: rgba(30, 30, 50, 0.95);
+            border-radius: 20px;
+            padding: 25px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .card h2 {
+            color: #fff;
+            font-size: 1.4rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #4f46e5;
+            display: inline-block;
+        }
+        .table-wrapper {
+            max-height: 550px;
+            overflow-y: auto;
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            color: #e0e0e0;
+            min-width: 500px;
+        }
+        th {
+            background: #1a1a3e;
+            padding: 12px;
+            text-align: left;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            cursor: pointer;
+            user-select: none;
+        }
+        th:hover { background: #2a2a4e; }
+        td {
+            padding: 10px 12px;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        tr:hover { background: rgba(255,255,255,0.05); }
+        .positive { color: #34d399; font-weight: 600; }
+        .negative { color: #f87171; font-weight: 600; }
+        .rank { color: #fbbf24; font-weight: bold; width: 50px; }
+        .compare-section {
+            background: rgba(30, 30, 50, 0.95);
+            border-radius: 20px;
+            padding: 25px;
+            margin-bottom: 30px;
+        }
+        .compare-section h2 { color: white; margin-bottom: 20px; }
+        .footer {
+            text-align: center;
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+        .loading { text-align: center; padding: 40px; color: #888; }
+        .stock-link { color: #a8c0ff; text-decoration: none; }
+        .stock-link:hover { text-decoration: underline; }
+        .ytd-card { margin-top: 30px; }
+        .sort-icon { font-size: 0.7rem; margin-left: 5px; opacity: 0.6; }
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: rgba(255,255,255,0.05); border-radius: 10px; }
+        ::-webkit-scrollbar-thumb { background: rgba(79,70,229,0.5); border-radius: 10px; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <h1>Yabanci Yatirimci Takip Sistemi</h1>
+        <p>Borsa Istanbul - Aylik Yabanci Islem Verileri</p>
+    </div>
+
+    <div class="date-selector">
+        <select id="monthSelect"><option value="">Ay Secin</option></select>
+        <button onclick="loadData()">Verileri Getir</button>
+        <button onclick="toggleCompare()">Iki Ay Karsilastir</button>
+    </div>
+
+    <div class="grid-2">
+        <div class="card">
+            <h2>En Cok Net Alim</h2>
+            <div class="table-wrapper"><div id="buyersTable">Ay secin</div></div>
+        </div>
+        <div class="card">
+            <h2>En Cok Net Satim</h2>
+            <div class="table-wrapper"><div id="sellersTable">Ay secin</div></div>
+        </div>
+    </div>
+
+    <div class="card ytd-card">
+        <h2>Yilbasindan Beri En Cok Net Alim (2026)</h2>
+        <div class="table-wrapper"><div id="ytdTable">Yukleniyor...</div></div>
+    </div>
+
+    <div id="comparePanel" style="display:none;" class="compare-section">
+        <h2 style="color:white;">Iki Ay Karsilastirmasi</h2>
+        <div style="display:flex; gap:20px; margin-bottom:20px; flex-wrap:wrap;">
+            <select id="compareMonth1" style="background:#1a1a3e; color:white; padding:10px; border-radius:8px; border:1px solid #4f46e5;"><option value="">1. Ay Secin</option></select>
+            <select id="compareMonth2" style="background:#1a1a3e; color:white; padding:10px; border-radius:8px; border:1px solid #4f46e5;"><option value="">2. Ay Secin</option></select>
+            <button onclick="loadCompare()" style="background:#4f46e5; color:white; padding:10px 24px; border:none; border-radius:8px; cursor:pointer;">Karsilastir</button>
+        </div>
+        <div class="table-wrapper">
+            <div id="compareTable" style="background:#1a1a3e; color:#e0e0e0; padding:20px; border-radius:12px; text-align:center;">Karsilastirma yapin</div>
+        </div>
+    </div>
+
+    <div class="footer">
+        Hisse koduna tiklayarak detayli grafik goruntuleyin | Sutun basliklarina tiklayarak siralama yapabilirsiniz | Kaynak: BIST
+    </div>
+</div>
+
+<script>
+    let months = [];
+    let currentBuyersData = [];
+    let currentSellersData = [];
+    let currentYTDData = [];
+
+    async function fetchJSON(url) {
+        const res = await fetch(url);
+        return res.json();
+    }
+
+    async function loadMonths() {
+        months = await fetchJSON('/api/months');
+        const select = document.getElementById('monthSelect');
+        const cmp1 = document.getElementById('compareMonth1');
+        const cmp2 = document.getElementById('compareMonth2');
+        for (let m of months) {
+            select.add(new Option(m, m));
+            cmp1.add(new Option(m, m));
+            cmp2.add(new Option(m, m));
+        }
+        if (months.length > 0) {
+            select.value = months[months.length - 1];
+            loadData();
+        }
+    }
+
+    async function loadData() {
+        const month = document.getElementById('monthSelect').value;
+        if (!month) return;
+        document.getElementById('buyersTable').innerHTML = '<div class="loading">Yukleniyor...</div>';
+        document.getElementById('sellersTable').innerHTML = '<div class="loading">Yukleniyor...</div>';
+        const [buyers, sellers] = await Promise.all([
+            fetchJSON('/api/buyers/' + month),
+            fetchJSON('/api/sellers/' + month)
+        ]);
+        currentBuyersData = buyers;
+        currentSellersData = sellers;
+        makeTable('buyersTable', buyers, 'buy');
+        makeTable('sellersTable', sellers, 'sell');
+    }
+
+    function makeTable(containerId, data, type) {
+        if (!data || data.length === 0) {
+            document.getElementById(containerId).innerHTML = '<div class="loading">Veri yok</div>';
+            return;
+        }
+        let html = '<table>';
+        html += '<thead><tr>';
+        html += '<th data-col="0" onclick="sortTable(\'' + containerId + '\', 0, \'' + type + '\')"># <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="1" onclick="sortTable(\'' + containerId + '\', 1, \'' + type + '\')">Hisse <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="2" onclick="sortTable(\'' + containerId + '\', 2, \'' + type + '\')">' + (type === 'buy' ? 'Net Alim (TL)' : 'Net Satim (TL)') + ' <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="3" onclick="sortTable(\'' + containerId + '\', 3, \'' + type + '\')">Dolasimdaki Hisseye Oran (%) <span class="sort-icon">↕</span></th>';
+        html += '</tr></thead>';
+        html += '<tbody id="tbody-' + containerId + '">';
+        for (let i = 0; i < data.length; i++) {
+            let item = data[i];
+            let val = item.Net_Nominal_TL;
+            let cls = (type === 'buy' && val > 0) ? 'positive' : (val < 0 ? 'negative' : 'positive');
+            let displayVal = Math.abs(val).toLocaleString('tr-TR') + ' TL';
+            if (type === 'buy' && val > 0) displayVal = '+' + displayVal;
+            let ratioText = '-';
+            if (item.ratio !== null && item.ratio !== undefined && !isNaN(item.ratio)) {
+                let ratioValue = item.ratio;
+                if (type === 'sell' && val < 0) ratioValue = Math.abs(item.ratio);
+                ratioText = (ratioValue * 100).toFixed(2) + '%';
+            }
+            html += '<tr>';
+            html += '<td class="rank">' + (i+1) + '</td>';
+            html += '<td><a href="/stock/' + item.Hisse_Kodu + '" class="stock-link">' + item.Hisse_Kodu + '</a></td>';
+            html += '<td class="' + cls + '">' + displayVal + '</td>';
+            html += '<td>' + ratioText + '</td>';
+            html += '</tr>';
+        }
+        html += '</tbody>';
+        html += '</table>';
+        document.getElementById(containerId).innerHTML = html;
+    }
+
+    function sortTable(containerId, colIndex, type) {
+        const tbody = document.getElementById('tbody-' + containerId);
+        if (!tbody) return;
+        
+        let data;
+        if (containerId === 'buyersTable') data = [...currentBuyersData];
+        else if (containerId === 'sellersTable') data = [...currentSellersData];
+        else return;
+        
+        data.sort((a, b) => {
+            let aVal, bVal;
+            if (colIndex === 0) {
+                return 0;
+            } else if (colIndex === 1) {
+                aVal = a.Hisse_Kodu;
+                bVal = b.Hisse_Kodu;
+                return aVal.localeCompare(bVal);
+            } else if (colIndex === 2) {
+                aVal = a.Net_Nominal_TL;
+                bVal = b.Net_Nominal_TL;
+                return bVal - aVal;
+            } else if (colIndex === 3) {
+                aVal = a.ratio || 0;
+                bVal = b.ratio || 0;
+                return bVal - aVal;
+            }
+            return 0;
+        });
+        
+        let html = '';
+        for (let i = 0; i < data.length; i++) {
+            let item = data[i];
+            let val = item.Net_Nominal_TL;
+            let cls = (type === 'buy' && val > 0) ? 'positive' : (val < 0 ? 'negative' : 'positive');
+            let displayVal = Math.abs(val).toLocaleString('tr-TR') + ' TL';
+            if (type === 'buy' && val > 0) displayVal = '+' + displayVal;
+            let ratioText = '-';
+            if (item.ratio !== null && item.ratio !== undefined && !isNaN(item.ratio)) {
+                let ratioValue = item.ratio;
+                if (type === 'sell' && val < 0) ratioValue = Math.abs(item.ratio);
+                ratioText = (ratioValue * 100).toFixed(2) + '%';
+            }
+            html += '<tr>';
+            html += '<td class="rank">' + (i+1) + '</td>';
+            html += '<td><a href="/stock/' + item.Hisse_Kodu + '" class="stock-link">' + item.Hisse_Kodu + '</a></td>';
+            html += '<td class="' + cls + '">' + displayVal + '</td>';
+            html += '<td>' + ratioText + '</td>';
+            html += '</tr>';
+        }
+        tbody.innerHTML = html;
+    }
+
+    async function loadYTD() {
+        const data = await fetchJSON('/api/ytd');
+        currentYTDData = data;
+        if (!data || data.length === 0) {
+            document.getElementById('ytdTable').innerHTML = '<div class="loading">Veri yok</div>';
+            return;
+        }
+        let html = '<table>';
+        html += '<thead><tr>';
+        html += '<th data-col="0" onclick="sortYTDTable(0)"># <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="1" onclick="sortYTDTable(1)">Hisse <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="2" onclick="sortYTDTable(2)">Yilbasindan Beri Net Alim (TL) <span class="sort-icon">↕</span></th>';
+        html += '<th data-col="3" onclick="sortYTDTable(3)">Dolasimdaki Hisseye Oran (%) <span class="sort-icon">↕</span></th>';
+        html += '</tr></thead>';
+        html += '<tbody id="tbody-ytd">';
+        for (let i = 0; i < data.length; i++) {
+            let item = data[i];
+            let val = item.Toplam_Net_Nominal_TL;
+            let cls = val >= 0 ? 'positive' : 'negative';
+            let displayVal = (val >= 0 ? '+' : '') + Math.abs(val).toLocaleString('tr-TR') + ' TL';
+            let ratioText = '-';
+            if (item.ytd_ratio !== null && item.ytd_ratio !== undefined && !isNaN(item.ytd_ratio)) {
+                ratioText = (item.ytd_ratio * 100).toFixed(2) + '%';
+            }
+            html += '<tr>';
+            html += '<td class="rank">' + (i+1) + '</td>';
+            html += '<td><a href="/stock/' + item.Hisse_Kodu + '" class="stock-link">' + item.Hisse_Kodu + '</a></td>';
+            html += '<td class="' + cls + '">' + displayVal + '</td>';
+            html += '<td>' + ratioText + '</td>';
+            html += '</tr>';
+        }
+        html += '</tbody>';
+        html += '</table>';
+        document.getElementById('ytdTable').innerHTML = html;
+    }
+
+    function sortYTDTable(colIndex) {
+        const tbody = document.getElementById('tbody-ytd');
+        if (!tbody) return;
+        
+        let data = [...currentYTDData];
+        
+        data.sort((a, b) => {
+            let aVal, bVal;
+            if (colIndex === 0) {
+                return 0;
+            } else if (colIndex === 1) {
+                aVal = a.Hisse_Kodu;
+                bVal = b.Hisse_Kodu;
+                return aVal.localeCompare(bVal);
+            } else if (colIndex === 2) {
+                aVal = a.Toplam_Net_Nominal_TL;
+                bVal = b.Toplam_Net_Nominal_TL;
+                return bVal - aVal;
+            } else if (colIndex === 3) {
+                aVal = a.ytd_ratio || 0;
+                bVal = b.ytd_ratio || 0;
+                return bVal - aVal;
+            }
+            return 0;
+        });
+        
+        let html = '';
+        for (let i = 0; i < data.length; i++) {
+            let item = data[i];
+            let val = item.Toplam_Net_Nominal_TL;
+            let cls = val >= 0 ? 'positive' : 'negative';
+            let displayVal = (val >= 0 ? '+' : '') + Math.abs(val).toLocaleString('tr-TR') + ' TL';
+            let ratioText = '-';
+            if (item.ytd_ratio !== null && item.ytd_ratio !== undefined && !isNaN(item.ytd_ratio)) {
+                ratioText = (item.ytd_ratio * 100).toFixed(2) + '%';
+            }
+            html += '<tr>';
+            html += '<td class="rank">' + (i+1) + '</td>';
+            html += '<td><a href="/stock/' + item.Hisse_Kodu + '" class="stock-link">' + item.Hisse_Kodu + '</a></td>';
+            html += '<td class="' + cls + '">' + displayVal + '</td>';
+            html += '<td>' + ratioText + '</td>';
+            html += '</tr>';
+        }
+        tbody.innerHTML = html;
+    }
+
+    function toggleCompare() {
+        const panel = document.getElementById('comparePanel');
+        panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+    }
+
+    async function loadCompare() {
+        const month1 = document.getElementById('compareMonth1').value;
+        const month2 = document.getElementById('compareMonth2').value;
+        if (!month1 || !month2) {
+            alert('Iki ay secin');
+            return;
+        }
+        document.getElementById('compareTable').innerHTML = '<div style="text-align:center; padding:20px;">Yukleniyor...</div>';
+        const data = await fetchJSON('/api/compare?month1=' + month1 + '&month2=' + month2);
+        if (!data || data.length === 0) {
+            document.getElementById('compareTable').innerHTML = '<div style="text-align:center; padding:20px;">Karsilastirma verisi yok</div>';
+            return;
+        }
+        let html = '<table style="width:100%; border-collapse:collapse;">';
+        html += '<thead><tr>';
+        html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">Hisse</th>';
+        html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">' + month1 + '</th>';
+        html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">' + month2 + '</th>';
+        html += '<th style="background:#1a1a3e; padding:12px; text-align:left;">Degisim</th>';
+        html += '</tr></thead>';
+        html += '<tbody>';
+        for (let i = 0; i < data.length; i++) {
+            let item = data[i];
+            let fark = item.fark;
+            let farkCls = fark >= 0 ? 'positive' : 'negative';
+            let farkSign = fark >= 0 ? '+' : '';
+            let val1 = item[month1] || 0;
+            let val2 = item[month2] || 0;
+            html += '<tr>';
+            html += '<td style="padding:10px; border-bottom:1px solid #333;"><a href="/stock/' + item.Hisse_Kodu + '" class="stock-link">' + item.Hisse_Kodu + '</a></td>';
+            html += '<td style="padding:10px; border-bottom:1px solid #333;">' + val1.toLocaleString('tr-TR') + ' TL</td>';
+            html += '<td style="padding:10px; border-bottom:1px solid #333;">' + val2.toLocaleString('tr-TR') + ' TL</td>';
+            html += '<td style="padding:10px; border-bottom:1px solid #333;" class="' + farkCls + '">' + farkSign + fark.toLocaleString('tr-TR') + ' TL</td>';
+            html += '</tr>';
+        }
+        html += '</tbody>';
+        html += '</table>';
+        document.getElementById('compareTable').innerHTML = html;
+    }
+
+    loadMonths();
+    loadYTD();
+</script>
+</body>
+</html>

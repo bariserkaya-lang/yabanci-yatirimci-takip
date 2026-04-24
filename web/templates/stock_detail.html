@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Hisse Detay - Yabancı Yatırımcı Takip Sistemi</title>
+    <script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            margin: 0;
+            padding: 40px 20px;
+            color: #e0e0e0;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .back-link {
+            color: #a8c0ff;
+            text-decoration: none;
+            display: inline-block;
+            margin-bottom: 20px;
+        }
+        .back-link:hover { text-decoration: underline; }
+        .card {
+            background: rgba(30, 30, 50, 0.95);
+            border-radius: 20px;
+            padding: 25px;
+            margin-bottom: 25px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .card h1, .card h2 {
+            color: white;
+            margin-bottom: 20px;
+        }
+        .card h1 { font-size: 2rem; border-left: 4px solid #4f46e5; padding-left: 15px; }
+        .table-wrapper {
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        th { background: rgba(79, 70, 229, 0.3); }
+        .positive { color: #34d399; }
+        .negative { color: #f87171; }
+        .loading { text-align: center; padding: 40px; color: #888; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <a href="/" class="back-link">← Ana Sayfaya Dön</a>
+
+    <div class="card">
+        <h1>Hisse: <span id="stockCode"></span></h1>
+        <div id="chart" style="height: 450px;"></div>
+    </div>
+
+    <div class="card">
+        <h2>📅 Aylık Yabancı İşlemleri</h2>
+        <div class="table-wrapper">
+            <div id="monthlyTable" class="loading">Yükleniyor...</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const code = window.location.pathname.split('/').pop();
+    document.getElementById('stockCode').innerText = code;
+
+    async function loadStockData() {
+        const res = await fetch(`/api/stock/${code}`);
+        const data = await res.json();
+
+        if (data.error) {
+            document.getElementById('chart').innerHTML = '<div class="loading">❌ Hisse verisi bulunamadı</div>';
+            document.getElementById('monthlyTable').innerHTML = '<div class="loading">Veri yok</div>';
+            return;
+        }
+
+        const sorted = [...data.Aylik_Veriler].sort((a,b) => a.ay.localeCompare(b.ay));
+        const months = sorted.map(m => m.ay);
+        const values = sorted.map(m => m.Net_Nominal_TL);
+
+        const trace = {
+            x: months,
+            y: values,
+            type: 'scatter',
+            mode: 'lines+markers',
+            line: { width: 3, color: '#4f46e5', shape: 'spline' },
+            marker: { size: 8, color: values.map(v => v >= 0 ? '#34d399' : '#f87171') },
+            fill: 'tozeroy',
+            fillcolor: 'rgba(79,70,229,0.2)'
+        };
+
+        const layout = {
+            title: `${code} - Aylık Net Yabancı Pozisyonu`,
+            paper_bgcolor: 'rgba(0,0,0,0)',
+            plot_bgcolor: 'rgba(0,0,0,0)',
+            xaxis: { title: 'Ay', tickfont: { color: '#a0a0b8' }, gridcolor: 'rgba(255,255,255,0.1)' },
+            yaxis: { title: 'Net Alım/Satım (TL)', tickfont: { color: '#a0a0b8' }, gridcolor: 'rgba(255,255,255,0.1)' }
+        };
+
+        Plotly.newPlot('chart', [trace], layout, { responsive: true });
+
+        let html = '<table>';
+        html += '<thead><tr>';
+        html += '<th>Ay</th>';
+        html += '<th>Net Alım/Satım (TL)</th>';
+        html += '<th>Dolaşımdaki Hisseye Oran (%)</th>';
+        html += '</tr></thead>';
+        html += '<tbody>';
+        
+        for (let i = 0; i < sorted.length; i++) {
+            let item = sorted[i];
+            let val = item.Net_Nominal_TL;
+            let cls = val >= 0 ? 'positive' : 'negative';
+            let sign = val >= 0 ? '+' : '';
+            let displayVal = sign + Math.abs(val).toLocaleString('tr-TR') + ' TL';
+            
+            let ratioText = '-';
+            if (item.ratio !== null && item.ratio !== undefined && !isNaN(item.ratio)) {
+                ratioText = (item.ratio * 100).toFixed(2) + '%';
+            }
+            
+            html += '<tr>';
+            html += '<td>' + item.ay + '</td>';
+            html += '<td class="' + cls + '">' + displayVal + '</td>';
+            html += '<td>' + ratioText + '</td>';
+            html += '</tr>';
+        }
+        
+        html += '</tbody></table>';
+        html += '</table>';
+        document.getElementById('monthlyTable').innerHTML = html;
+    }
+
+    loadStockData();
+</script>
+</body>
+</html>

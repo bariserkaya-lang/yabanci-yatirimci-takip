@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yabancı Yatırımcı Takip Sistemi</title>
+    <script src="https://cdn.plot.ly/plotly-3.0.1.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        .container { max-width: 1400px; margin: 0 auto; }
+        .header { text-align: center; margin-bottom: 40px; }
+        .header h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #fff, #a8c0ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .header p { color: #a0a0b8; margin-top: 10px; }
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+        .card {
+            background: rgba(30, 30, 50, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 25px;
+            border: 1px solid rgba(255,255,255,0.1);
+            box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+        }
+        .card h2 {
+            color: #fff;
+            font-size: 1.4rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #4f46e5;
+            display: inline-block;
+        }
+        .table-wrapper {
+            max-height: 500px;
+            overflow-y: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            color: #e0e0e0;
+        }
+        th {
+            background: rgba(79, 70, 229, 0.3);
+            padding: 12px;
+            text-align: left;
+            position: sticky;
+            top: 0;
+        }
+        td {
+            padding: 10px 12px;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        tr:hover { background: rgba(255,255,255,0.05); }
+        .positive { color: #34d399; font-weight: 600; }
+        .negative { color: #f87171; font-weight: 600; }
+        .rank { color: #fbbf24; font-weight: bold; width: 50px; }
+        .chart-section {
+            background: rgba(30, 30, 50, 0.95);
+            border-radius: 20px;
+            padding: 25px;
+            margin-bottom: 30px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .chart-section h2 { color: white; margin-bottom: 20px; }
+        .search-box {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+        .search-box input {
+            flex: 1;
+            padding: 14px 20px;
+            background: rgba(0,0,0,0.4);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 12px;
+            color: white;
+            font-size: 1rem;
+        }
+        .search-box input:focus {
+            outline: none;
+            border-color: #4f46e5;
+        }
+        .search-box input::placeholder { color: #888; }
+        .search-box button {
+            padding: 14px 32px;
+            background: linear-gradient(135deg, #4f46e5, #7c3aed);
+            border: none;
+            border-radius: 12px;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .search-box button:hover {
+            transform: scale(1.02);
+            box-shadow: 0 10px 25px -5px rgba(79,70,229,0.5);
+        }
+        .footer {
+            text-align: center;
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+        .loading { text-align: center; padding: 40px; color: #888; }
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: rgba(255,255,255,0.05); border-radius: 10px; }
+        ::-webkit-scrollbar-thumb { background: rgba(79,70,229,0.5); border-radius: 10px; }
+        @media (max-width: 768px) {
+            .grid-2 { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 Yabancı Yatırımcı Takip Sistemi</h1>
+            <p>Borsa İstanbul - Aylık Yabancı İşlem Verileri (Mart 2026)</p>
+        </div>
+
+        <div class="grid-2">
+            <div class="card">
+                <h2>🏆 En Çok Net Alım</h2>
+                <div class="table-wrapper">
+                    <div id="buyers">Yükleniyor...</div>
+                </div>
+            </div>
+            <div class="card">
+                <h2>⚠️ En Çok Net Satım</h2>
+                <div class="table-wrapper">
+                    <div id="sellers">Yükleniyor...</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-section">
+            <h2>📈 Hisse Bazlı Analiz</h2>
+            <div class="search-box">
+                <input type="text" id="stockCode" placeholder="Hisse Kodu (Örn: TUPRS, ASELS, EREGL, THYAO)">
+                <button onclick="loadChart()">🔍 Grafiği Göster</button>
+            </div>
+            <div id="chart" style="height: 450px;"></div>
+        </div>
+
+        <div class="card">
+            <h2>📅 Kümülatif Net Alım (Ocak - Mart 2026)</h2>
+            <div class="table-wrapper">
+                <div id="ytd">Yükleniyor...</div>
+            </div>
+        </div>
+
+        <div class="footer">
+            Veri Kaynağı: Borsa İstanbul - Yabancı Yatırımcı İşlemleri Raporu
+        </div>
+    </div>
+
+    <script>
+        async function fetchJSON(url) {
+            const res = await fetch(url);
+            return res.json();
+        }
+
+        async function loadBuyers() {
+            const data = await fetchJSON('/api/buyers');
+            let html = '<table><thead><tr><th>#</th><th>Hisse</th><th>Net Alım (TL)</th></tr></thead><tbody>';
+            data.forEach((item, i) => {
+                html += `<tr><td class="rank">${i+1}</td><td><strong>${item.Hisse_Kodu}</strong></td><td class="positive">+${item.Net_Nominal_TL.toLocaleString('tr-TR')}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            document.getElementById('buyers').innerHTML = html;
+        }
+
+        async function loadSellers() {
+            const data = await fetchJSON('/api/sellers');
+            let html = '<table><thead><tr><th>#</th><th>Hisse</th><th>Net Satım (TL)</th></tr></thead><tbody>';
+            data.forEach((item, i) => {
+                html += `<tr><td class="rank">${i+1}</td><td><strong>${item.Hisse_Kodu}</strong></td><td class="negative">${item.Net_Nominal_TL.toLocaleString('tr-TR')}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            document.getElementById('sellers').innerHTML = html;
+        }
+
+        async function loadYTD() {
+            const data = await fetchJSON('/api/ytd');
+            let html = '<table><thead><tr><th>#</th><th>Hisse</th><th>Toplam Net (TL)</th></tr></thead><tbody>';
+            data.forEach((item, i) => {
+                html += `<tr><td class="rank">${i+1}</td><td><strong>${item.Hisse_Kodu}</strong></td><td class="positive">+${item.Toplam_Net_Nominal_TL.toLocaleString('tr-TR')}</td></tr>`;
+            });
+            html += '</tbody></table>';
+            document.getElementById('ytd').innerHTML = html;
+        }
+
+        async function loadChart() {
+            const code = document.getElementById('stockCode').value.toUpperCase().trim();
+            if (!code) { alert('Hisse kodu girin'); return; }
+            document.getElementById('chart').innerHTML = '<div class="loading">Grafik yükleniyor...</div>';
+            const data = await fetchJSON(`/api/stock/${code}`);
+            if (data.error) {
+                document.getElementById('chart').innerHTML = `<div class="loading" style="color:#f87171">❌ Hisse bulunamadı: ${code}</div>`;
+                return;
+            }
+            const sorted = [...data.Aylik_Veriler].sort((a,b) => a.ay.localeCompare(b.ay));
+            const months = sorted.map(m => m.ay.split('-')[1] + '/' + m.ay.split('-')[0].slice(2));
+            const values = sorted.map(m => m.Net_Nominal_TL);
+            Plotly.newPlot('chart', [{
+                x: months, y: values, type: 'bar',
+                marker: { color: values.map(v => v >= 0 ? '#34d399' : '#f87171') },
+                text: values.map(v => v.toLocaleString('tr-TR') + ' TL'),
+                textposition: 'auto'
+            }], {
+                paper_bgcolor: 'rgba(0,0,0,0)',
+                plot_bgcolor: 'rgba(0,0,0,0)',
+                xaxis: { title: 'Ay', tickfont: { color: '#a0a0b8' } },
+                yaxis: { title: 'Net Alım/Satım (TL)', tickfont: { color: '#a0a0b8' } }
+            });
+        }
+
+        document.getElementById('stockCode').addEventListener('keypress', e => { if(e.key === 'Enter') loadChart(); });
+        loadBuyers();
+        loadSellers();
+        loadYTD();
+    </script>
+</body>
+</html>
