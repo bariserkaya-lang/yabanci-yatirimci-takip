@@ -2,8 +2,8 @@
   "A1CAP": {
     "Hisse_Kodu": "A1CAP",
     "Hisse_Adi": "A1 CAPİTAL YATIRIM MENKUL DEĞERLER A.Ş. ",
-    "Toplam_Net_Nominal_TL": 744996.0,
-    "Toplam_Net_Tutar_USD": 233160.9199631326,
+    "Toplam_Net_Nominal_TL": -4473777.0,
+    "Toplam_Net_Tutar_USD": -1475983.8339243643,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -64,14 +64,19 @@
         "ay": "2024-12",
         "Net_Nominal_TL": 234343.0,
         "Net_Tutar_USD": 158421.9780551903
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -5218773.0,
+        "Net_Tutar_USD": -1709144.753887497
       }
     ]
   },
   "ADGYO": {
     "Hisse_Kodu": "ADGYO",
     "Hisse_Adi": "ADRA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": -2595322.0,
-    "Toplam_Net_Tutar_USD": -2681719.7777539887,
+    "Toplam_Net_Nominal_TL": -2705256.0,
+    "Toplam_Net_Tutar_USD": -2827977.8703426295,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -202,14 +207,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -228185.0,
         "Net_Tutar_USD": -305427.57791900076
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -109934.0,
+        "Net_Tutar_USD": -146258.09258864075
       }
     ]
   },
   "AEFES": {
     "Hisse_Kodu": "AEFES",
     "Hisse_Adi": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. ",
-    "Toplam_Net_Nominal_TL": 214415353.333,
-    "Toplam_Net_Tutar_USD": 76835729.86973056,
+    "Toplam_Net_Nominal_TL": 174852309.333,
+    "Toplam_Net_Tutar_USD": 60561817.01139355,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -340,6 +350,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -70241571.0,
         "Net_Tutar_USD": -27767646.422206998
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -39563044.0,
+        "Net_Tutar_USD": -16273912.858337015
       }
     ]
   },
@@ -414,8 +429,8 @@
   "AGESA": {
     "Hisse_Kodu": "AGESA",
     "Hisse_Adi": "AGESA HAYAT VE EMEKLİLİK A.Ş.",
-    "Toplam_Net_Nominal_TL": 12371643.0,
-    "Toplam_Net_Tutar_USD": 43969167.134011716,
+    "Toplam_Net_Nominal_TL": 12226284.0,
+    "Toplam_Net_Tutar_USD": 43215242.86488661,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -546,14 +561,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -721627.0,
         "Net_Tutar_USD": -3561629.5048798006
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -145359.0,
+        "Net_Tutar_USD": -753924.2691251002
       }
     ]
   },
   "AGHOL": {
     "Hisse_Kodu": "AGHOL",
     "Hisse_Adi": "AG ANADOLU GRUBU HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 38585273.5,
-    "Toplam_Net_Tutar_USD": 37906735.2510375,
+    "Toplam_Net_Nominal_TL": 35864369.5,
+    "Toplam_Net_Tutar_USD": 36129510.3536915,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -684,14 +704,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -6719923.0,
         "Net_Tutar_USD": -4259240.611472301
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -2720904.0,
+        "Net_Tutar_USD": -1777224.8973459974
       }
     ]
   },
   "AGROT": {
     "Hisse_Kodu": "AGROT",
     "Hisse_Adi": "AGROTECH YÜKSEK TEKNOLOJİ VE YATIRIM A.Ş.",
-    "Toplam_Net_Nominal_TL": 38050999.5,
-    "Toplam_Net_Tutar_USD": 6674722.060951158,
+    "Toplam_Net_Nominal_TL": 20813282.5,
+    "Toplam_Net_Tutar_USD": 5065587.545954958,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -822,14 +847,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 4519484.0,
         "Net_Tutar_USD": 281783.99374129996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -17237717.0,
+        "Net_Tutar_USD": -1609134.5149962008
       }
     ]
   },
   "AHGAZ": {
     "Hisse_Kodu": "AHGAZ",
     "Hisse_Adi": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
-    "Toplam_Net_Nominal_TL": 17321218.0,
-    "Toplam_Net_Tutar_USD": 10254015.751130864,
+    "Toplam_Net_Nominal_TL": 12289387.0,
+    "Toplam_Net_Tutar_USD": 7642681.697602764,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -960,14 +990,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1013055.0,
         "Net_Tutar_USD": 440924.6937822029
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -5031831.0,
+        "Net_Tutar_USD": -2611334.0535281003
       }
     ]
   },
   "AKBNK": {
     "Hisse_Kodu": "AKBNK",
     "Hisse_Adi": "AKBANK T.A.Ş.",
-    "Toplam_Net_Nominal_TL": 251632486.666,
-    "Toplam_Net_Tutar_USD": 456729670.92876685,
+    "Toplam_Net_Nominal_TL": 237082234.666,
+    "Toplam_Net_Tutar_USD": 433582012.6239568,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -1098,14 +1133,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -144553529.0,
         "Net_Tutar_USD": -234911781.34712005
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -14550252.0,
+        "Net_Tutar_USD": -23147658.304810047
       }
     ]
   },
   "AKCNS": {
     "Hisse_Kodu": "AKCNS",
     "Hisse_Adi": "AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -2504707.0,
-    "Toplam_Net_Tutar_USD": -10403918.22100202,
+    "Toplam_Net_Nominal_TL": -2148987.0,
+    "Toplam_Net_Tutar_USD": -8755731.092289522,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -1236,14 +1276,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 32043.5,
         "Net_Tutar_USD": 126866.62130450085
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 355720.0,
+        "Net_Tutar_USD": 1648187.1287124977
       }
     ]
   },
   "AKFGY": {
     "Hisse_Kodu": "AKFGY",
     "Hisse_Adi": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 118277784.0,
-    "Toplam_Net_Tutar_USD": 7989886.510805424,
+    "Toplam_Net_Nominal_TL": 142653001.0,
+    "Toplam_Net_Tutar_USD": 9530291.082575725,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -1374,14 +1419,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -29320496.0,
         "Net_Tutar_USD": -1865159.0397394001
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 24375217.0,
+        "Net_Tutar_USD": 1540404.571770301
       }
     ]
   },
   "AKFYE": {
     "Hisse_Kodu": "AKFYE",
     "Hisse_Adi": "AKFEN YENİLENEBİLİR ENERJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 100719350.0,
-    "Toplam_Net_Tutar_USD": 80931723.8272506,
+    "Toplam_Net_Nominal_TL": 95094484.0,
+    "Toplam_Net_Tutar_USD": 78106846.1719731,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -1512,14 +1562,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1125100.5,
         "Net_Tutar_USD": 357654.479336597
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -5624866.0,
+        "Net_Tutar_USD": -2824877.6552775055
       }
     ]
   },
   "AKGRT": {
     "Hisse_Kodu": "AKGRT",
     "Hisse_Adi": "AKSİGORTA A.Ş.",
-    "Toplam_Net_Nominal_TL": 49614231.0,
-    "Toplam_Net_Tutar_USD": 8283874.193381377,
+    "Toplam_Net_Nominal_TL": 47706793.0,
+    "Toplam_Net_Tutar_USD": 8023025.709545076,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -1650,14 +1705,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -10546179.0,
         "Net_Tutar_USD": -1869565.4970556013
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1907438.0,
+        "Net_Tutar_USD": -260848.48383630067
       }
     ]
   },
   "AKSA": {
     "Hisse_Kodu": "AKSA",
     "Hisse_Adi": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -30299656.5,
-    "Toplam_Net_Tutar_USD": -13057434.842561798,
+    "Toplam_Net_Nominal_TL": -38942488.5,
+    "Toplam_Net_Tutar_USD": -15172809.940163704,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -1788,14 +1848,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -20020172.0,
         "Net_Tutar_USD": -4797479.399655603
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -8642832.0,
+        "Net_Tutar_USD": -2115375.0976019055
       }
     ]
   },
   "AKSEN": {
     "Hisse_Kodu": "AKSEN",
     "Hisse_Adi": "AKSA ENERJİ ÜRETİM A.Ş.",
-    "Toplam_Net_Nominal_TL": 16773476.5,
-    "Toplam_Net_Tutar_USD": 19060866.46580637,
+    "Toplam_Net_Nominal_TL": 17751774.5,
+    "Toplam_Net_Tutar_USD": 20908255.521814976,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -1926,14 +1991,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 4849923.0,
         "Net_Tutar_USD": 7663435.746044993
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 978298.0,
+        "Net_Tutar_USD": 1847389.0560086071
       }
     ]
   },
   "AKSGY": {
     "Hisse_Kodu": "AKSGY",
     "Hisse_Adi": "AKİŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 28159603.0,
-    "Toplam_Net_Tutar_USD": 4485176.15659986,
+    "Toplam_Net_Nominal_TL": 24225969.0,
+    "Toplam_Net_Tutar_USD": 3652480.827855489,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -2064,14 +2134,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -5685542.0,
         "Net_Tutar_USD": -1088531.2498526694
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -3933634.0,
+        "Net_Tutar_USD": -832695.3287443705
       }
     ]
   },
   "ALARK": {
     "Hisse_Kodu": "ALARK",
     "Hisse_Adi": "ALARKO HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 14603842.0,
-    "Toplam_Net_Tutar_USD": 42417251.09377739,
+    "Toplam_Net_Nominal_TL": 14526694.5,
+    "Toplam_Net_Tutar_USD": 42358081.50780618,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -2202,14 +2277,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1540951.0,
         "Net_Tutar_USD": -3258460.469512403
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -77147.5,
+        "Net_Tutar_USD": -59169.58597120643
       }
     ]
   },
   "ALBRK": {
     "Hisse_Kodu": "ALBRK",
     "Hisse_Adi": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
-    "Toplam_Net_Nominal_TL": 60145035.0,
-    "Toplam_Net_Tutar_USD": 10173558.155923102,
+    "Toplam_Net_Nominal_TL": 35942878.0,
+    "Toplam_Net_Tutar_USD": 5307800.051780101,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -2340,14 +2420,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -24167502.0,
         "Net_Tutar_USD": -4582328.853271499
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -24202157.0,
+        "Net_Tutar_USD": -4865758.104143001
       }
     ]
   },
   "ALFAS": {
     "Hisse_Kodu": "ALFAS",
     "Hisse_Adi": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -10592324.5,
-    "Toplam_Net_Tutar_USD": -32187509.63684491,
+    "Toplam_Net_Nominal_TL": -10136148.0,
+    "Toplam_Net_Tutar_USD": -31834089.87839151,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -2478,14 +2563,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -428805.0,
         "Net_Tutar_USD": -353754.6943425499
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 456176.5,
+        "Net_Tutar_USD": 353419.7584534008
       }
     ]
   },
   "ALGYO": {
     "Hisse_Kodu": "ALGYO",
     "Hisse_Adi": "ALARKO GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": -3713957.0,
-    "Toplam_Net_Tutar_USD": 815097.2909119078,
+    "Toplam_Net_Nominal_TL": -1725372.0,
+    "Toplam_Net_Tutar_USD": 1385706.167229707,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -2586,6 +2676,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -12573253.0,
         "Net_Tutar_USD": -1456034.7847601026
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1988585.0,
+        "Net_Tutar_USD": 570608.8763177991
       }
     ]
   },
@@ -2660,8 +2755,8 @@
   "ANHYT": {
     "Hisse_Kodu": "ANHYT",
     "Hisse_Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş.",
-    "Toplam_Net_Nominal_TL": 6551637.0,
-    "Toplam_Net_Tutar_USD": 21252643.843268774,
+    "Toplam_Net_Nominal_TL": 6769027.0,
+    "Toplam_Net_Tutar_USD": 21800658.741338376,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -2792,14 +2887,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 201184.5,
         "Net_Tutar_USD": 545407.1510132998
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 217390.0,
+        "Net_Tutar_USD": 548014.8980696015
       }
     ]
   },
   "ANSGR": {
     "Hisse_Kodu": "ANSGR",
     "Hisse_Adi": "ANADOLU ANONİM TÜRK SİGORTA ŞİRKETİ",
-    "Toplam_Net_Nominal_TL": 20293112.5,
-    "Toplam_Net_Tutar_USD": 45197664.43434008,
+    "Toplam_Net_Nominal_TL": 27798034.5,
+    "Toplam_Net_Tutar_USD": 49890071.37414378,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -2930,14 +3030,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3249299.0,
         "Net_Tutar_USD": -1899301.5753951073
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 7504922.0,
+        "Net_Tutar_USD": 4692406.939803701
       }
     ]
   },
   "ARASE": {
     "Hisse_Kodu": "ARASE",
     "Hisse_Adi": "DOĞU ARAS ENERJİ YATIRIMLARI A.Ş.",
-    "Toplam_Net_Nominal_TL": 6275166.0,
-    "Toplam_Net_Tutar_USD": 8699270.559435198,
+    "Toplam_Net_Nominal_TL": 6681045.0,
+    "Toplam_Net_Tutar_USD": 9619808.001723498,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -3068,14 +3173,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -656993.0,
         "Net_Tutar_USD": -1382975.6577940006
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 405879.0,
+        "Net_Tutar_USD": 920537.4422883
       }
     ]
   },
   "ARCLK": {
     "Hisse_Kodu": "ARCLK",
     "Hisse_Adi": "ARÇELİK A.Ş.",
-    "Toplam_Net_Nominal_TL": 7192201.75,
-    "Toplam_Net_Tutar_USD": 21821961.87195012,
+    "Toplam_Net_Nominal_TL": 7224056.75,
+    "Toplam_Net_Tutar_USD": 21896680.42732262,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -3206,14 +3316,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 737233.0,
         "Net_Tutar_USD": 1886388.5999983996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 31855.0,
+        "Net_Tutar_USD": 74718.55537249893
       }
     ]
   },
   "ASELS": {
     "Hisse_Kodu": "ASELS",
     "Hisse_Adi": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 305373914.5,
-    "Toplam_Net_Tutar_USD": 1059434364.9566834,
+    "Toplam_Net_Nominal_TL": 338683287.0,
+    "Toplam_Net_Tutar_USD": 1334980959.6608431,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -3344,14 +3459,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 18805343.0,
         "Net_Tutar_USD": 148854827.3480897
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 33309372.5,
+        "Net_Tutar_USD": 275546594.70415974
       }
     ]
   },
   "ASGYO": {
     "Hisse_Kodu": "ASGYO",
     "Hisse_Adi": "ASCE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 4371551.0,
-    "Toplam_Net_Tutar_USD": 1272007.1133836051,
+    "Toplam_Net_Nominal_TL": 7318790.0,
+    "Toplam_Net_Tutar_USD": 2003111.4494229956,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -3482,14 +3602,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2280691.0,
         "Net_Tutar_USD": 577796.9330280293
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2947239.0,
+        "Net_Tutar_USD": 731104.3360393904
       }
     ]
   },
   "ASTOR": {
     "Hisse_Kodu": "ASTOR",
     "Hisse_Adi": "ASTOR ENERJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 160786904.5,
-    "Toplam_Net_Tutar_USD": 524208659.661685,
+    "Toplam_Net_Nominal_TL": 241925603.5,
+    "Toplam_Net_Tutar_USD": 890618847.214895,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -3620,6 +3745,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 13977796.0,
         "Net_Tutar_USD": 65898400.13224304
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 81138699.0,
+        "Net_Tutar_USD": 366410187.55321
       }
     ]
   },
@@ -3694,8 +3824,8 @@
   "ATAKP": {
     "Hisse_Kodu": "ATAKP",
     "Hisse_Adi": "ATAKEY PATATES GIDA SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 2106701.0,
-    "Toplam_Net_Tutar_USD": 2497048.521041568,
+    "Toplam_Net_Nominal_TL": 1980725.0,
+    "Toplam_Net_Tutar_USD": 2343334.8547070376,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -3826,14 +3956,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -302377.0,
         "Net_Tutar_USD": -359412.7571501201
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -125976.0,
+        "Net_Tutar_USD": -153713.66633453034
       }
     ]
   },
   "AVPGY": {
     "Hisse_Kodu": "AVPGY",
     "Hisse_Adi": "AVRUPAKENT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş",
-    "Toplam_Net_Nominal_TL": 7760911.0,
-    "Toplam_Net_Tutar_USD": 9457759.09720455,
+    "Toplam_Net_Nominal_TL": 7775009.0,
+    "Toplam_Net_Tutar_USD": 9472284.751142459,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -3964,14 +4099,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -458585.5,
         "Net_Tutar_USD": -547322.1359625012
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 14098.0,
+        "Net_Tutar_USD": 14525.653937909752
       }
     ]
   },
   "AYDEM": {
     "Hisse_Kodu": "AYDEM",
     "Hisse_Adi": "AYDEM YENİLENEBİLİR ENERJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 26049510.5,
-    "Toplam_Net_Tutar_USD": 15257657.0367881,
+    "Toplam_Net_Nominal_TL": 27355118.5,
+    "Toplam_Net_Tutar_USD": 16108089.387058603,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -4102,6 +4242,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2213996.0,
         "Net_Tutar_USD": 1286180.9070537016
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1305608.0,
+        "Net_Tutar_USD": 850432.3502705023
       }
     ]
   },
@@ -4121,8 +4266,8 @@
   "AYGAZ": {
     "Hisse_Kodu": "AYGAZ",
     "Hisse_Adi": "AYGAZ A.Ş.",
-    "Toplam_Net_Nominal_TL": 5714555.0,
-    "Toplam_Net_Tutar_USD": 28901970.87295684,
+    "Toplam_Net_Nominal_TL": 10609371.0,
+    "Toplam_Net_Tutar_USD": 57141430.07910973,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -4253,6 +4398,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1180627.0,
         "Net_Tutar_USD": 6396090.602238193
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4894816.0,
+        "Net_Tutar_USD": 28239459.206152894
       }
     ]
   },
@@ -4327,8 +4477,8 @@
   "BASGZ": {
     "Hisse_Kodu": "BASGZ",
     "Hisse_Adi": "BAŞKENT DOĞALGAZ DAĞITIM GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 7778532.0,
-    "Toplam_Net_Tutar_USD": 6432741.523164319,
+    "Toplam_Net_Nominal_TL": 7952547.0,
+    "Toplam_Net_Tutar_USD": 6618602.107977379,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -4459,6 +4609,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -174484.0,
         "Net_Tutar_USD": -220474.4897266999
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 174015.0,
+        "Net_Tutar_USD": 185860.58481305977
       }
     ]
   },
@@ -4508,8 +4663,8 @@
   "BERA": {
     "Hisse_Kodu": "BERA",
     "Hisse_Adi": "BERA HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 16658811.5,
-    "Toplam_Net_Tutar_USD": 6667835.878203312,
+    "Toplam_Net_Nominal_TL": 20084203.5,
+    "Toplam_Net_Tutar_USD": 8069335.27086811,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -4640,14 +4795,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -835361.0,
         "Net_Tutar_USD": -129171.28331340104
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3425392.0,
+        "Net_Tutar_USD": 1401499.3926647976
       }
     ]
   },
   "BFREN": {
     "Hisse_Kodu": "BFREN",
     "Hisse_Adi": "BOSCH FREN SİSTEMLERİ SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 185196.0,
-    "Toplam_Net_Tutar_USD": -616369.4085360151,
+    "Toplam_Net_Nominal_TL": 225612.0,
+    "Toplam_Net_Tutar_USD": -512281.1443100348,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -4778,14 +4938,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -86303.0,
         "Net_Tutar_USD": -281906.8527934002
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 40416.0,
+        "Net_Tutar_USD": 104088.26422598027
       }
     ]
   },
   "BIENY": {
     "Hisse_Kodu": "BIENY",
     "Hisse_Adi": "BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 1418321.0,
-    "Toplam_Net_Tutar_USD": 424165.0999171878,
+    "Toplam_Net_Nominal_TL": 57419.0,
+    "Toplam_Net_Tutar_USD": -336102.268370111,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -4916,6 +5081,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1125702.0,
         "Net_Tutar_USD": 570440.0823214985
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1360902.0,
+        "Net_Tutar_USD": -760267.3682872988
       }
     ]
   },
@@ -4990,8 +5160,8 @@
   "BIMAS": {
     "Hisse_Kodu": "BIMAS",
     "Hisse_Adi": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
-    "Toplam_Net_Nominal_TL": -8914727.0,
-    "Toplam_Net_Tutar_USD": -140749229.53096992,
+    "Toplam_Net_Nominal_TL": -6098252.0,
+    "Toplam_Net_Tutar_USD": -95901593.41109091,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -5122,14 +5292,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2050662.5,
         "Net_Tutar_USD": 35439688.89338505
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2816475.0,
+        "Net_Tutar_USD": 44847636.11987901
       }
     ]
   },
   "BINHO": {
     "Hisse_Kodu": "BINHO",
     "Hisse_Adi": "1000 YATIRIMLAR HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 174154.0,
-    "Toplam_Net_Tutar_USD": -11779038.814466974,
+    "Toplam_Net_Nominal_TL": 26825831.0,
+    "Toplam_Net_Tutar_USD": -5654244.025228774,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -5260,14 +5435,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3059841.0,
         "Net_Tutar_USD": -604415.9641138017
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 26651677.0,
+        "Net_Tutar_USD": 6124794.7892382
       }
     ]
   },
   "BIOEN": {
     "Hisse_Kodu": "BIOEN",
     "Hisse_Adi": "BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.",
-    "Toplam_Net_Nominal_TL": -8141808.0,
-    "Toplam_Net_Tutar_USD": -4808670.0889270315,
+    "Toplam_Net_Nominal_TL": -8876219.0,
+    "Toplam_Net_Tutar_USD": -5095049.492595331,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -5398,14 +5578,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 294029.0,
         "Net_Tutar_USD": 110544.19582490064
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -734411.0,
+        "Net_Tutar_USD": -286379.4036682993
       }
     ]
   },
   "BOBET": {
     "Hisse_Kodu": "BOBET",
     "Hisse_Adi": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -7787891.0,
-    "Toplam_Net_Tutar_USD": -6244869.4477325175,
+    "Toplam_Net_Nominal_TL": -8098426.0,
+    "Toplam_Net_Tutar_USD": -6400804.652309166,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -5536,14 +5721,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2281284.0,
         "Net_Tutar_USD": -1010948.7230737004
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -310535.0,
+        "Net_Tutar_USD": -155935.20457664877
       }
     ]
   },
   "BORLS": {
     "Hisse_Kodu": "BORLS",
     "Hisse_Adi": "BORLEASE OTOMOTİV A.Ş.",
-    "Toplam_Net_Nominal_TL": -7792264.0,
-    "Toplam_Net_Tutar_USD": -21468749.865284298,
+    "Toplam_Net_Nominal_TL": 18999092.0,
+    "Toplam_Net_Tutar_USD": -19589619.200409207,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -5674,14 +5864,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -9583384.0,
         "Net_Tutar_USD": -680666.3467889018
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 26791356.0,
+        "Net_Tutar_USD": 1879130.6648750901
       }
     ]
   },
   "BRISA": {
     "Hisse_Kodu": "BRISA",
     "Hisse_Adi": "BRİSA BRİDGESTONE SABANCI LASTİK SANAYİ VE TİCARET A.Ş. ",
-    "Toplam_Net_Nominal_TL": -1141554.0,
-    "Toplam_Net_Tutar_USD": -3832365.109732713,
+    "Toplam_Net_Nominal_TL": -989144.0,
+    "Toplam_Net_Tutar_USD": -3546289.0256278734,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -5812,14 +6007,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -314821.0,
         "Net_Tutar_USD": -606531.56568577
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 152410.0,
+        "Net_Tutar_USD": 286076.0841048397
       }
     ]
   },
   "BRSAN": {
     "Hisse_Kodu": "BRSAN",
     "Hisse_Adi": "BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 1123111.0,
-    "Toplam_Net_Tutar_USD": -2974689.2441115566,
+    "Toplam_Net_Nominal_TL": 221063.0,
+    "Toplam_Net_Tutar_USD": -13880033.527226556,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -5950,14 +6150,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1251890.0,
         "Net_Tutar_USD": -15546341.569218993
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -902048.0,
+        "Net_Tutar_USD": -10905344.283115
       }
     ]
   },
   "BRYAT": {
     "Hisse_Kodu": "BRYAT",
     "Hisse_Adi": "BORUSAN YATIRIM VE PAZARLAMA A.Ş.",
-    "Toplam_Net_Nominal_TL": -375894.0,
-    "Toplam_Net_Tutar_USD": -41302930.63498701,
+    "Toplam_Net_Nominal_TL": -393709.0,
+    "Toplam_Net_Tutar_USD": -42163179.15611311,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -6088,14 +6293,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 45456.0,
         "Net_Tutar_USD": 2257012.367229402
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -17815.0,
+        "Net_Tutar_USD": -860248.5211260989
       }
     ]
   },
   "BTCIM": {
     "Hisse_Kodu": "BTCIM",
     "Hisse_Adi": "BATIÇİM BATI ANADOLU ÇİMENTO SANAYİİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 130862611.5,
-    "Toplam_Net_Tutar_USD": 34575216.64816046,
+    "Toplam_Net_Nominal_TL": 120934405.5,
+    "Toplam_Net_Tutar_USD": 33131742.472097456,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -6226,14 +6436,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -25773563.0,
         "Net_Tutar_USD": -3931931.2226859927
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -9928206.0,
+        "Net_Tutar_USD": -1443474.1760630012
       }
     ]
   },
   "BUCIM": {
     "Hisse_Kodu": "BUCIM",
     "Hisse_Adi": "BURSA ÇİMENTO FABRİKASI A.Ş.",
-    "Toplam_Net_Nominal_TL": -5003285.0,
-    "Toplam_Net_Tutar_USD": -809105.1994538247,
+    "Toplam_Net_Nominal_TL": 2283815.0,
+    "Toplam_Net_Tutar_USD": 199229.56103394506,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -6364,6 +6579,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -810110.0,
         "Net_Tutar_USD": -113425.56430925056
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 7287100.0,
+        "Net_Tutar_USD": 1008334.7604877697
       }
     ]
   },
@@ -6383,8 +6603,8 @@
   "CANTE": {
     "Hisse_Kodu": "CANTE",
     "Hisse_Adi": "ÇAN2 TERMİK A.Ş",
-    "Toplam_Net_Nominal_TL": 177551755.0,
-    "Toplam_Net_Tutar_USD": 7545879.202008806,
+    "Toplam_Net_Nominal_TL": 456937627.0,
+    "Toplam_Net_Tutar_USD": 18297262.70886781,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -6515,6 +6735,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 29889480.0,
         "Net_Tutar_USD": 737288.3921499997
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 279385872.0,
+        "Net_Tutar_USD": 10751383.506859004
       }
     ]
   },
@@ -6629,8 +6854,8 @@
   "CCOLA": {
     "Hisse_Kodu": "CCOLA",
     "Hisse_Adi": "COCA COLA İÇECEK A.Ş.",
-    "Toplam_Net_Nominal_TL": -932178.0000800043,
-    "Toplam_Net_Tutar_USD": 44506885.997095495,
+    "Toplam_Net_Nominal_TL": 975924.9999199957,
+    "Toplam_Net_Tutar_USD": 47544093.529529095,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -6761,6 +6986,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 4943029.0,
         "Net_Tutar_USD": 7820092.517618999
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1908103.0,
+        "Net_Tutar_USD": 3037207.5324335992
       }
     ]
   },
@@ -6903,8 +7133,8 @@
   "CIMSA": {
     "Hisse_Kodu": "CIMSA",
     "Hisse_Adi": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 20859386.0,
-    "Toplam_Net_Tutar_USD": 22030746.65505797,
+    "Toplam_Net_Nominal_TL": 25032708.0,
+    "Toplam_Net_Tutar_USD": 26311594.55144057,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -7035,14 +7265,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 9267987.0,
         "Net_Tutar_USD": 10188987.790624596
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4173322.0,
+        "Net_Tutar_USD": 4280847.8963826
       }
     ]
   },
   "CLEBI": {
     "Hisse_Kodu": "CLEBI",
     "Hisse_Adi": "ÇELEBİ HAVA SERVİSİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 149239.0,
-    "Toplam_Net_Tutar_USD": 10712696.98824639,
+    "Toplam_Net_Nominal_TL": 153792.0,
+    "Toplam_Net_Tutar_USD": 10795235.79163449,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -7173,14 +7408,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 6356.0,
         "Net_Tutar_USD": 208755.72561660036
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4553.0,
+        "Net_Tutar_USD": 82538.80338810012
       }
     ]
   },
   "CVKMD": {
     "Hisse_Kodu": "CVKMD",
     "Hisse_Adi": "CVK MADEN İŞLETMELERİ SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 27227343.0,
-    "Toplam_Net_Tutar_USD": 13869763.013910018,
+    "Toplam_Net_Nominal_TL": 26061834.0,
+    "Toplam_Net_Tutar_USD": 12986305.271314017,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -7311,14 +7551,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -13823037.0,
         "Net_Tutar_USD": -10366231.05021301
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1165509.0,
+        "Net_Tutar_USD": -883457.7425960004
       }
     ]
   },
   "CWENE": {
     "Hisse_Kodu": "CWENE",
     "Hisse_Adi": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 11480958.0,
-    "Toplam_Net_Tutar_USD": 26900789.44933103,
+    "Toplam_Net_Nominal_TL": 30135871.0,
+    "Toplam_Net_Tutar_USD": 42509709.83870606,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -7449,14 +7694,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2703139.0,
         "Net_Tutar_USD": -1512156.663778007
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 18654913.0,
+        "Net_Tutar_USD": 15608920.389375031
       }
     ]
   },
   "DAPGM": {
     "Hisse_Kodu": "DAPGM",
     "Hisse_Adi": "DAP GAYRİMENKUL GELİŞTİRME A.Ş. ",
-    "Toplam_Net_Nominal_TL": 25333906.0,
-    "Toplam_Net_Tutar_USD": 8030786.778298497,
+    "Toplam_Net_Nominal_TL": 17312118.0,
+    "Toplam_Net_Tutar_USD": 6014067.075439692,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -7587,14 +7837,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -20260004.0,
         "Net_Tutar_USD": -5929350.879820898
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -8021788.0,
+        "Net_Tutar_USD": -2016719.7028588057
       }
     ]
   },
   "DEVA": {
     "Hisse_Kodu": "DEVA",
     "Hisse_Adi": "DEVA HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": -1347083.0,
-    "Toplam_Net_Tutar_USD": -3389148.9370853715,
+    "Toplam_Net_Nominal_TL": -1640975.0,
+    "Toplam_Net_Tutar_USD": -3809944.4004319217,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -7725,6 +7980,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -88719.5,
         "Net_Tutar_USD": -115207.0409177905
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -293892.0,
+        "Net_Tutar_USD": -420795.46334655024
       }
     ]
   },
@@ -7759,8 +8019,8 @@
   "DOAS": {
     "Hisse_Kodu": "DOAS",
     "Hisse_Adi": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 8028288.0,
-    "Toplam_Net_Tutar_USD": 44556367.8545991,
+    "Toplam_Net_Nominal_TL": 6721428.0,
+    "Toplam_Net_Tutar_USD": 39026359.5015412,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -7891,14 +8151,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3887286.0,
         "Net_Tutar_USD": -17191819.164969802
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1306860.0,
+        "Net_Tutar_USD": -5530008.353057906
       }
     ]
   },
   "DOHOL": {
     "Hisse_Kodu": "DOHOL",
     "Hisse_Adi": "DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 123856464.0,
-    "Toplam_Net_Tutar_USD": 49816763.2122345,
+    "Toplam_Net_Nominal_TL": 138933856.0,
+    "Toplam_Net_Tutar_USD": 57188960.79958219,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -8029,14 +8294,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -7635070.5,
         "Net_Tutar_USD": -3424549.8209273964
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 15077392.0,
+        "Net_Tutar_USD": 7372197.587347694
       }
     ]
   },
   "EBEBK": {
     "Hisse_Kodu": "EBEBK",
     "Hisse_Adi": "EBEBEK MAĞAZACILIK A.Ş.",
-    "Toplam_Net_Nominal_TL": 542447.0,
-    "Toplam_Net_Tutar_USD": -206150.01531375665,
+    "Toplam_Net_Nominal_TL": 1571665.0,
+    "Toplam_Net_Tutar_USD": 1301262.777175744,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -8167,14 +8437,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -155573.0,
         "Net_Tutar_USD": -190365.8635893101
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1029218.0,
+        "Net_Tutar_USD": 1507412.7924895007
       }
     ]
   },
   "ECILC": {
     "Hisse_Kodu": "ECILC",
     "Hisse_Adi": "EİS ECZACIBAŞI İLAÇ SINAİ VE FİNANSAL YATIRIMLAR SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 1708863.0,
-    "Toplam_Net_Tutar_USD": -3481418.4457882326,
+    "Toplam_Net_Nominal_TL": 9688924.0,
+    "Toplam_Net_Tutar_USD": 13720854.743787782,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -8305,14 +8580,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2134285.0,
         "Net_Tutar_USD": -5612299.669568703
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 7980061.0,
+        "Net_Tutar_USD": 17202273.189576015
       }
     ]
   },
   "ECZYT": {
     "Hisse_Kodu": "ECZYT",
     "Hisse_Adi": "ECZACIBAŞI YATIRIM HOLDİNG ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 603833.0,
-    "Toplam_Net_Tutar_USD": 3833254.4370603748,
+    "Toplam_Net_Nominal_TL": 806824.0,
+    "Toplam_Net_Tutar_USD": 5529241.448134977,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -8443,14 +8723,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -275904.0,
         "Net_Tutar_USD": -1832179.848110702
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 202991.0,
+        "Net_Tutar_USD": 1695987.0110746026
       }
     ]
   },
   "EGEEN": {
     "Hisse_Kodu": "EGEEN",
     "Hisse_Adi": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -22234.0,
-    "Toplam_Net_Tutar_USD": -2041437.1324112173,
+    "Toplam_Net_Nominal_TL": -25804.0,
+    "Toplam_Net_Tutar_USD": -2697899.710200915,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -8581,14 +8866,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -24776.0,
         "Net_Tutar_USD": -3324122.937361
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -3570.0,
+        "Net_Tutar_USD": -656462.5777896978
       }
     ]
   },
   "EKGYO": {
     "Hisse_Kodu": "EKGYO",
     "Hisse_Adi": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 367968446.5,
-    "Toplam_Net_Tutar_USD": 141879625.88146517,
+    "Toplam_Net_Nominal_TL": 412689159.5,
+    "Toplam_Net_Tutar_USD": 162726113.6323022,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -8719,6 +9009,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -14625395.0,
         "Net_Tutar_USD": -6581119.536074996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 44720713.0,
+        "Net_Tutar_USD": 20846487.750837028
       }
     ]
   },
@@ -8861,8 +9156,8 @@
   "ENERY": {
     "Hisse_Kodu": "ENERY",
     "Hisse_Adi": "ENERYA ENERJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -43414763.5,
-    "Toplam_Net_Tutar_USD": 9990481.347188115,
+    "Toplam_Net_Nominal_TL": -44987240.5,
+    "Toplam_Net_Tutar_USD": 9782897.366452314,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -8993,14 +9288,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2962435.0,
         "Net_Tutar_USD": -587730.3873398006
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1572477.0,
+        "Net_Tutar_USD": -207583.98073580116
       }
     ]
   },
   "ENJSA": {
     "Hisse_Kodu": "ENJSA",
     "Hisse_Adi": "ENERJİSA ENERJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 5753297.0,
-    "Toplam_Net_Tutar_USD": 16799822.745405737,
+    "Toplam_Net_Nominal_TL": 13943784.5,
+    "Toplam_Net_Tutar_USD": 39013493.54297353,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -9131,14 +9431,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 6115072.0,
         "Net_Tutar_USD": 15712276.759186998
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 8190487.5,
+        "Net_Tutar_USD": 22213670.7975678
       }
     ]
   },
   "ENKAI": {
     "Hisse_Kodu": "ENKAI",
     "Hisse_Adi": "ENKA İNŞAAT VE SANAYİİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 19238967.0,
-    "Toplam_Net_Tutar_USD": 34345292.3982611,
+    "Toplam_Net_Nominal_TL": 21437440.0,
+    "Toplam_Net_Tutar_USD": 39456449.97500011,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -9269,6 +9574,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -11205391.5,
         "Net_Tutar_USD": -24086186.753352016
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2198473.0,
+        "Net_Tutar_USD": 5111157.576739013
       }
     ]
   },
@@ -9426,8 +9736,8 @@
   "EREGL": {
     "Hisse_Kodu": "EREGL",
     "Hisse_Adi": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-    "Toplam_Net_Nominal_TL": 426186269.75,
-    "Toplam_Net_Tutar_USD": 180325364.473732,
+    "Toplam_Net_Nominal_TL": 443640715.25,
+    "Toplam_Net_Tutar_USD": 199015448.4770739,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -9558,14 +9868,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -146391005.5,
         "Net_Tutar_USD": -96529454.12961292
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 17454445.5,
+        "Net_Tutar_USD": 18690084.003341913
       }
     ]
   },
   "ESCAR": {
     "Hisse_Kodu": "ESCAR",
     "Hisse_Adi": "ESCAR FİLO KİRALAMA HİZMETLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 13650485.0,
-    "Toplam_Net_Tutar_USD": 10494490.416628154,
+    "Toplam_Net_Nominal_TL": 12077944.0,
+    "Toplam_Net_Tutar_USD": 8307459.85816426,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -9696,14 +10011,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 7976389.0,
         "Net_Tutar_USD": 4543399.257629797
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1572541.0,
+        "Net_Tutar_USD": -2187030.558463894
       }
     ]
   },
   "ESEN": {
     "Hisse_Kodu": "ESEN",
     "Hisse_Adi": "ESENBOĞA ELEKTRİK ÜRETİM A.Ş.",
-    "Toplam_Net_Nominal_TL": 13416004.0,
-    "Toplam_Net_Tutar_USD": -2213682.7035470866,
+    "Toplam_Net_Nominal_TL": -54184793.0,
+    "Toplam_Net_Tutar_USD": -8714335.279688086,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -9764,14 +10084,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 41645977.0,
         "Net_Tutar_USD": 3709255.1270700954
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -67600797.0,
+        "Net_Tutar_USD": -6500652.576141
       }
     ]
   },
   "EUPWR": {
     "Hisse_Kodu": "EUPWR",
     "Hisse_Adi": "EUROPOWER ENERJİ VE OTOMASYON TEKNOLOJİLERİ SANAYİ TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 8657169.5,
-    "Toplam_Net_Tutar_USD": 21060055.513077807,
+    "Toplam_Net_Nominal_TL": 23085995.5,
+    "Toplam_Net_Tutar_USD": 35748279.149109796,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -9902,14 +10227,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3839318.0,
         "Net_Tutar_USD": 3094073.650794998
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 14428826.0,
+        "Net_Tutar_USD": 14688223.636031985
       }
     ]
   },
   "EUREN": {
     "Hisse_Kodu": "EUREN",
     "Hisse_Adi": "EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 36676684.0,
-    "Toplam_Net_Tutar_USD": 12730631.863471407,
+    "Toplam_Net_Nominal_TL": 70773743.0,
+    "Toplam_Net_Tutar_USD": 17114595.118356396,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -10040,14 +10370,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 11544584.0,
         "Net_Tutar_USD": 1278011.1753197983
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 34097059.0,
+        "Net_Tutar_USD": 4383963.254884988
       }
     ]
   },
   "FENER": {
     "Hisse_Kodu": "FENER",
     "Hisse_Adi": "FENERBAHÇE FUTBOL A.Ş.",
-    "Toplam_Net_Nominal_TL": 41628976.5,
-    "Toplam_Net_Tutar_USD": -1404222.5835415088,
+    "Toplam_Net_Nominal_TL": 44474691.5,
+    "Toplam_Net_Tutar_USD": -1334876.695822712,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -10178,14 +10513,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 11009041.0,
         "Net_Tutar_USD": 720791.9201085046
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2845715.0,
+        "Net_Tutar_USD": 69345.88771879673
       }
     ]
   },
   "FROTO": {
     "Hisse_Kodu": "FROTO",
     "Hisse_Adi": "FORD OTOMOTİV SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 52879255.5,
-    "Toplam_Net_Tutar_USD": 82672480.32533714,
+    "Toplam_Net_Nominal_TL": 51973396.5,
+    "Toplam_Net_Tutar_USD": 81700413.23639414,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -10316,14 +10656,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -7899640.0,
         "Net_Tutar_USD": -19013509.722846985
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -905859.0,
+        "Net_Tutar_USD": -972067.0889430046
       }
     ]
   },
   "FZLGY": {
     "Hisse_Kodu": "FZLGY",
     "Hisse_Adi": "FUZUL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": -3119128.0,
-    "Toplam_Net_Tutar_USD": -100004.07068494707,
+    "Toplam_Net_Nominal_TL": -3817533.0,
+    "Toplam_Net_Tutar_USD": -268099.94862184674,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -10429,14 +10774,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1917308.0,
         "Net_Tutar_USD": -994964.4238213897
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -698405.0,
+        "Net_Tutar_USD": -168095.87793689966
       }
     ]
   },
   "GARAN": {
     "Hisse_Kodu": "GARAN",
     "Hisse_Adi": "TÜRKİYE GARANTİ BANKASI A.Ş.",
-    "Toplam_Net_Nominal_TL": -26309307.0,
-    "Toplam_Net_Tutar_USD": -20019857.65725124,
+    "Toplam_Net_Nominal_TL": -24835521.0,
+    "Toplam_Net_Tutar_USD": -13667770.805861354,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -10567,14 +10917,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -54802382.5,
         "Net_Tutar_USD": -169346631.34925807
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1473786.0,
+        "Net_Tutar_USD": 6352086.851389885
       }
     ]
   },
   "GEDIK": {
     "Hisse_Kodu": "GEDIK",
     "Hisse_Adi": "GEDİK YATIRIM MENKUL DEĞERLER A.Ş.",
-    "Toplam_Net_Nominal_TL": -1184028.0,
-    "Toplam_Net_Tutar_USD": 349139.8193547153,
+    "Toplam_Net_Nominal_TL": 3379426.0,
+    "Toplam_Net_Tutar_USD": 905575.1551513751,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -10635,14 +10990,19 @@
         "ay": "2024-12",
         "Net_Nominal_TL": 199240.0,
         "Net_Tutar_USD": 34138.33895246009
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4563454.0,
+        "Net_Tutar_USD": 556435.3357966598
       }
     ]
   },
   "GENIL": {
     "Hisse_Kodu": "GENIL",
     "Hisse_Adi": "GEN İLAÇ VE SAĞLIK ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -21368339.0,
-    "Toplam_Net_Tutar_USD": -5831723.517052304,
+    "Toplam_Net_Nominal_TL": -47530930.0,
+    "Toplam_Net_Tutar_USD": -11896538.317680601,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -10773,14 +11133,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 13051488.0,
         "Net_Tutar_USD": 2814342.2654617876
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -26162591.0,
+        "Net_Tutar_USD": -6064814.800628297
       }
     ]
   },
   "GESAN": {
     "Hisse_Kodu": "GESAN",
     "Hisse_Adi": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 2190076.0,
-    "Toplam_Net_Tutar_USD": 4011656.962757485,
+    "Toplam_Net_Nominal_TL": 7247616.0,
+    "Toplam_Net_Tutar_USD": 9520355.876784684,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -10911,14 +11276,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -266805.0,
         "Net_Tutar_USD": -338606.9120822996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 5057540.0,
+        "Net_Tutar_USD": 5508698.914027199
       }
     ]
   },
   "GIPTA": {
     "Hisse_Kodu": "GIPTA",
     "Hisse_Adi": "GIPTA OFİS KIRTASİYE VE PROMOSYON ÜRÜNLERİ İMALAT SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -3162971.0,
-    "Toplam_Net_Tutar_USD": -8018849.1520843115,
+    "Toplam_Net_Nominal_TL": -3002485.0,
+    "Toplam_Net_Tutar_USD": -7836431.993143117,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -11009,14 +11379,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 317677.0,
         "Net_Tutar_USD": 237435.8745655045
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 160486.0,
+        "Net_Tutar_USD": 182417.15894119442
       }
     ]
   },
   "GLCVY": {
     "Hisse_Kodu": "GLCVY",
     "Hisse_Adi": "GELECEK VARLIK YÖNETİMİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 3178574.0,
-    "Toplam_Net_Tutar_USD": 5368597.848477459,
+    "Toplam_Net_Nominal_TL": 179382.0,
+    "Toplam_Net_Tutar_USD": 1214105.5147042572,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -11137,14 +11512,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -802714.0,
         "Net_Tutar_USD": -1294003.8259596005
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -2999192.0,
+        "Net_Tutar_USD": -4154492.3337732013
       }
     ]
   },
   "GLYHO": {
     "Hisse_Kodu": "GLYHO",
     "Hisse_Adi": "GLOBAL YATIRIM HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 324099188.5,
-    "Toplam_Net_Tutar_USD": 86961846.41243318,
+    "Toplam_Net_Nominal_TL": 321665192.5,
+    "Toplam_Net_Tutar_USD": 86152908.54175588,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -11275,14 +11655,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -6573686.0,
         "Net_Tutar_USD": -2047619.5032904968
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -2433996.0,
+        "Net_Tutar_USD": -808937.8706772998
       }
     ]
   },
   "GOKNR": {
     "Hisse_Kodu": "GOKNR",
     "Hisse_Adi": "GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -20530962.5,
-    "Toplam_Net_Tutar_USD": -12305387.663820963,
+    "Toplam_Net_Nominal_TL": -20354110.5,
+    "Toplam_Net_Tutar_USD": -12225162.72830896,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -11413,14 +11798,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -282785.0,
         "Net_Tutar_USD": -177120.8177636005
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 176852.0,
+        "Net_Tutar_USD": 80224.93551200256
       }
     ]
   },
   "GOLTS": {
     "Hisse_Kodu": "GOLTS",
     "Hisse_Adi": "GÖLTAŞ GÖLLER BÖLGESİ ÇİMENTO SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 441053.0,
-    "Toplam_Net_Tutar_USD": 3522289.5558817787,
+    "Toplam_Net_Nominal_TL": 539151.0,
+    "Toplam_Net_Tutar_USD": 4348903.379983089,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -11551,6 +11941,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -59033.0,
         "Net_Tutar_USD": -494919.9772609994
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 98098.0,
+        "Net_Tutar_USD": 826613.8241013102
       }
     ]
   },
@@ -11625,8 +12020,8 @@
   "GOZDE": {
     "Hisse_Kodu": "GOZDE",
     "Hisse_Adi": "GÖZDE GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": -19066967.0,
-    "Toplam_Net_Tutar_USD": -11554006.75912352,
+    "Toplam_Net_Nominal_TL": -17827381.0,
+    "Toplam_Net_Tutar_USD": -10969530.38803187,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -11757,6 +12152,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3436276.0,
         "Net_Tutar_USD": -1663665.0683221295
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1239586.0,
+        "Net_Tutar_USD": 584476.3710916499
       }
     ]
   },
@@ -11889,8 +12289,8 @@
   "GSRAY": {
     "Hisse_Kodu": "GSRAY",
     "Hisse_Adi": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş",
-    "Toplam_Net_Nominal_TL": -17311820.0,
-    "Toplam_Net_Tutar_USD": -4514172.648684632,
+    "Toplam_Net_Nominal_TL": 45239207.0,
+    "Toplam_Net_Tutar_USD": -2981776.175517533,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -12021,14 +12421,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -19427177.0,
         "Net_Tutar_USD": -489257.1804125011
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 62551027.0,
+        "Net_Tutar_USD": 1532396.473167099
       }
     ]
   },
   "GUBRF": {
     "Hisse_Kodu": "GUBRF",
     "Hisse_Adi": "GÜBRE FABRİKALARI T.A.Ş. ",
-    "Toplam_Net_Nominal_TL": 11356245.0,
-    "Toplam_Net_Tutar_USD": 81405142.24833702,
+    "Toplam_Net_Nominal_TL": 10500545.0,
+    "Toplam_Net_Tutar_USD": 71342505.14492501,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -12159,14 +12564,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -294111.0,
         "Net_Tutar_USD": -2820009.3397739828
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -855700.0,
+        "Net_Tutar_USD": -10062637.103412002
       }
     ]
   },
   "GWIND": {
     "Hisse_Kodu": "GWIND",
     "Hisse_Adi": "GALATA WIND ENERJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 3683041.5,
-    "Toplam_Net_Tutar_USD": 1795385.2549953107,
+    "Toplam_Net_Nominal_TL": 723915.5,
+    "Toplam_Net_Tutar_USD": -159168.22268519364,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -12297,14 +12707,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2718820.0,
         "Net_Tutar_USD": 1812552.1317052022
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -2959126.0,
+        "Net_Tutar_USD": -1954553.4776805043
       }
     ]
   },
   "HALKB": {
     "Hisse_Kodu": "HALKB",
     "Hisse_Adi": "TÜRKİYE HALK BANKASI A.Ş.",
-    "Toplam_Net_Nominal_TL": 29039192.0,
-    "Toplam_Net_Tutar_USD": -2225984.391115159,
+    "Toplam_Net_Nominal_TL": 36479580.0,
+    "Toplam_Net_Tutar_USD": 3883332.2554498613,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -12435,14 +12850,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -35659890.0,
         "Net_Tutar_USD": -36066491.037689984
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 7440388.0,
+        "Net_Tutar_USD": 6109316.64656502
       }
     ]
   },
   "HATSN": {
     "Hisse_Kodu": "HATSN",
     "Hisse_Adi": "HAT-SAN GEMİ İNŞAA BAKIM ONARIM DENİZ NAKLİYAT SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -1106909.0,
-    "Toplam_Net_Tutar_USD": -2150297.8066947544,
+    "Toplam_Net_Nominal_TL": -352759.0,
+    "Toplam_Net_Tutar_USD": -1488266.0141679542,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -12518,6 +12938,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -36979.0,
         "Net_Tutar_USD": -33541.90620862041
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 754150.0,
+        "Net_Tutar_USD": 662031.7925268002
       }
     ]
   },
@@ -12607,8 +13032,8 @@
   "HEKTS": {
     "Hisse_Kodu": "HEKTS",
     "Hisse_Adi": "HEKTAŞ TİCARET T.A.Ş.",
-    "Toplam_Net_Nominal_TL": 198694705.5,
-    "Toplam_Net_Tutar_USD": -7237863.782154389,
+    "Toplam_Net_Nominal_TL": 285467998.0,
+    "Toplam_Net_Tutar_USD": -1270816.9943213835,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -12739,14 +13164,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 4032347.0,
         "Net_Tutar_USD": 112874.94323980063
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 86773292.5,
+        "Net_Tutar_USD": 5967046.787833005
       }
     ]
   },
   "HLGYO": {
     "Hisse_Kodu": "HLGYO",
     "Hisse_Adi": "HALK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 33036798.0,
-    "Toplam_Net_Tutar_USD": 1400243.2848152695,
+    "Toplam_Net_Nominal_TL": 54545983.0,
+    "Toplam_Net_Tutar_USD": 4054216.4376212684,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -12877,14 +13307,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -21496597.0,
         "Net_Tutar_USD": -2377195.717259899
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 21509185.0,
+        "Net_Tutar_USD": 2653973.152805999
       }
     ]
   },
   "HTTBT": {
     "Hisse_Kodu": "HTTBT",
     "Hisse_Adi": "HİTİT BİLGİSAYAR HİZMETLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -443680.0,
-    "Toplam_Net_Tutar_USD": 1641520.0185547005,
+    "Toplam_Net_Nominal_TL": -714241.0,
+    "Toplam_Net_Tutar_USD": 1406779.0563442102,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -13015,6 +13450,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -203987.0,
         "Net_Tutar_USD": -232332.81009056978
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -270561.0,
+        "Net_Tutar_USD": -234740.96221049037
       }
     ]
   },
@@ -13215,8 +13655,8 @@
   "INDES": {
     "Hisse_Kodu": "INDES",
     "Hisse_Adi": "İNDEKS BİLGİSAYAR SİSTEMLERİ MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 12234455.0,
-    "Toplam_Net_Tutar_USD": -393968.1743303919,
+    "Toplam_Net_Nominal_TL": 1884316.0,
+    "Toplam_Net_Tutar_USD": -2601705.889598892,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -13347,14 +13787,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -4307490.0,
         "Net_Tutar_USD": -804093.8033556007
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -10350139.0,
+        "Net_Tutar_USD": -2207737.7152685
       }
     ]
   },
   "INVEO": {
     "Hisse_Kodu": "INVEO",
     "Hisse_Adi": "INVEO YATIRIM HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 1588224.0,
-    "Toplam_Net_Tutar_USD": 755610.2477845661,
+    "Toplam_Net_Nominal_TL": 4845865.0,
+    "Toplam_Net_Tutar_USD": 1307551.2697199462,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -13485,14 +13930,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2041397.0,
         "Net_Tutar_USD": 338980.0054211095
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3257641.0,
+        "Net_Tutar_USD": 551941.0219353801
       }
     ]
   },
   "INVES": {
     "Hisse_Kodu": "INVES",
     "Hisse_Adi": "INVESTCO HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 222665.0,
-    "Toplam_Net_Tutar_USD": 2817967.859269493,
+    "Toplam_Net_Nominal_TL": 659432.0,
+    "Toplam_Net_Tutar_USD": 7904265.576481791,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -13593,6 +14043,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 154344.0,
         "Net_Tutar_USD": 1923727.2828913033
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 436767.0,
+        "Net_Tutar_USD": 5086297.717212299
       }
     ]
   },
@@ -13717,8 +14172,8 @@
   "ISCTR": {
     "Hisse_Kodu": "ISCTR",
     "Hisse_Adi": "TÜRKİYE İŞ BANKASI A.Ş. C GRUBU",
-    "Toplam_Net_Nominal_TL": 56412943.485099554,
-    "Toplam_Net_Tutar_USD": -37000915.07461834,
+    "Toplam_Net_Nominal_TL": 304043964.48509955,
+    "Toplam_Net_Tutar_USD": 43132804.09902167,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -13849,14 +14304,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -294431854.5,
         "Net_Tutar_USD": -96919573.22837996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 247631021.0,
+        "Net_Tutar_USD": 80133719.17364001
       }
     ]
   },
   "ISDMR": {
     "Hisse_Kodu": "ISDMR",
     "Hisse_Adi": "İSKENDERUN DEMİR VE ÇELİK A.Ş.",
-    "Toplam_Net_Nominal_TL": 16969863.0,
-    "Toplam_Net_Tutar_USD": 16249408.823861286,
+    "Toplam_Net_Nominal_TL": 16326455.0,
+    "Toplam_Net_Tutar_USD": 15617205.345050585,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -13987,14 +14447,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -6936389.0,
         "Net_Tutar_USD": -6591436.9622542
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -643408.0,
+        "Net_Tutar_USD": -632203.4788107015
       }
     ]
   },
   "ISFIN": {
     "Hisse_Kodu": "ISFIN",
     "Hisse_Adi": "İŞ FİNANSAL KİRALAMA A.Ş.",
-    "Toplam_Net_Nominal_TL": -10473053.0,
-    "Toplam_Net_Tutar_USD": -4344082.880368473,
+    "Toplam_Net_Nominal_TL": -11026527.0,
+    "Toplam_Net_Tutar_USD": -4591896.266088363,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -14125,14 +14590,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2200648.0,
         "Net_Tutar_USD": -982385.5027220706
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -553474.0,
+        "Net_Tutar_USD": -247813.38571988977
       }
     ]
   },
   "ISGYO": {
     "Hisse_Kodu": "ISGYO",
     "Hisse_Adi": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": -19439462.835,
-    "Toplam_Net_Tutar_USD": -9908980.484075394,
+    "Toplam_Net_Nominal_TL": -18294226.835,
+    "Toplam_Net_Tutar_USD": -9389283.253163883,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -14263,14 +14733,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1354459.0,
         "Net_Tutar_USD": -649220.7489559399
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1145236.0,
+        "Net_Tutar_USD": 519697.23091151007
       }
     ]
   },
   "ISMEN": {
     "Hisse_Kodu": "ISMEN",
     "Hisse_Adi": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
-    "Toplam_Net_Nominal_TL": -12796562.0,
-    "Toplam_Net_Tutar_USD": -16077141.857825086,
+    "Toplam_Net_Nominal_TL": -8808984.5,
+    "Toplam_Net_Tutar_USD": -12097832.079725087,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -14401,6 +14876,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -13835881.0,
         "Net_Tutar_USD": -13948843.3291917
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3987577.5,
+        "Net_Tutar_USD": 3979309.778099999
       }
     ]
   },
@@ -14465,8 +14945,8 @@
   "IZENR": {
     "Hisse_Kodu": "IZENR",
     "Hisse_Adi": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-    "Toplam_Net_Nominal_TL": 116566526.0,
-    "Toplam_Net_Tutar_USD": 30941704.44622636,
+    "Toplam_Net_Nominal_TL": 101261437.0,
+    "Toplam_Net_Tutar_USD": 28471647.06427437,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -14597,6 +15077,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 30811662.0,
         "Net_Tutar_USD": 7198623.973576292
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -15305089.0,
+        "Net_Tutar_USD": -2470057.3819519877
       }
     ]
   },
@@ -14779,8 +15264,8 @@
   "KAREL": {
     "Hisse_Kodu": "KAREL",
     "Hisse_Adi": "KAREL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 27905124.0,
-    "Toplam_Net_Tutar_USD": 6845472.963992837,
+    "Toplam_Net_Nominal_TL": 47345585.0,
+    "Toplam_Net_Tutar_USD": 11074998.665436637,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -14911,14 +15396,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3098187.0,
         "Net_Tutar_USD": 565706.4445847999
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 19440461.0,
+        "Net_Tutar_USD": 4229525.701443799
       }
     ]
   },
   "KARSN": {
     "Hisse_Kodu": "KARSN",
     "Hisse_Adi": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 13948184.0,
-    "Toplam_Net_Tutar_USD": 2159096.152474094,
+    "Toplam_Net_Nominal_TL": 17322911.0,
+    "Toplam_Net_Tutar_USD": 2973023.181085393,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -15049,6 +15539,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -4624256.0,
         "Net_Tutar_USD": -1006096.6255985014
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3374727.0,
+        "Net_Tutar_USD": 813927.0286112987
       }
     ]
   },
@@ -15093,8 +15588,8 @@
   "KAYSE": {
     "Hisse_Kodu": "KAYSE",
     "Hisse_Adi": "KAYSERİ ŞEKER FABRİKASI A.Ş.",
-    "Toplam_Net_Nominal_TL": 16898998.0,
-    "Toplam_Net_Tutar_USD": 14499088.628669895,
+    "Toplam_Net_Nominal_TL": 21803908.0,
+    "Toplam_Net_Tutar_USD": 14971600.079902895,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -15225,6 +15720,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 551035.0,
         "Net_Tutar_USD": 20626.460550300777
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4904910.0,
+        "Net_Tutar_USD": 472511.45123299956
       }
     ]
   },
@@ -15299,8 +15799,8 @@
   "KCAER": {
     "Hisse_Kodu": "KCAER",
     "Hisse_Adi": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -1974627.5,
-    "Toplam_Net_Tutar_USD": 9014657.079104597,
+    "Toplam_Net_Nominal_TL": -7172621.5,
+    "Toplam_Net_Tutar_USD": 7714428.782964999,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -15431,14 +15931,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2404339.0,
         "Net_Tutar_USD": -732443.371780999
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -5197994.0,
+        "Net_Tutar_USD": -1300228.296139598
       }
     ]
   },
   "KCHOL": {
     "Hisse_Kodu": "KCHOL",
     "Hisse_Adi": "KOÇ HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": -24041424.5,
-    "Toplam_Net_Tutar_USD": -264024536.3439994,
+    "Toplam_Net_Nominal_TL": -15607564.5,
+    "Toplam_Net_Tutar_USD": -225050792.51207936,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -15569,6 +16074,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 6371028.5,
         "Net_Tutar_USD": 26900224.372889996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 8433860.0,
+        "Net_Tutar_USD": 38973743.83192003
       }
     ]
   },
@@ -15663,8 +16173,8 @@
   "KLGYO": {
     "Hisse_Kodu": "KLGYO",
     "Hisse_Adi": "KİLER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 637717.0,
-    "Toplam_Net_Tutar_USD": -2373853.904685952,
+    "Toplam_Net_Nominal_TL": 5628070.0,
+    "Toplam_Net_Tutar_USD": -1761903.6244871523,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -15795,14 +16305,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3072211.0,
         "Net_Tutar_USD": 389387.475974001
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4990353.0,
+        "Net_Tutar_USD": 611950.2801987994
       }
     ]
   },
   "KLKIM": {
     "Hisse_Kodu": "KLKIM",
     "Hisse_Adi": "KALEKİM KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 14510666.0,
-    "Toplam_Net_Tutar_USD": 12621273.831571862,
+    "Toplam_Net_Nominal_TL": 17671006.0,
+    "Toplam_Net_Tutar_USD": 15121256.207627263,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -15933,14 +16448,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 202431.0,
         "Net_Tutar_USD": 169772.352674298
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3160340.0,
+        "Net_Tutar_USD": 2499982.376055401
       }
     ]
   },
   "KLRHO": {
     "Hisse_Kodu": "KLRHO",
     "Hisse_Adi": "KİLER HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 19106520.0,
-    "Toplam_Net_Tutar_USD": 42207454.91138414,
+    "Toplam_Net_Nominal_TL": 11959174.0,
+    "Toplam_Net_Tutar_USD": 20703349.04257015,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -16071,14 +16591,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3360968.0,
         "Net_Tutar_USD": -17858731.14637202
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -7147346.0,
+        "Net_Tutar_USD": -21504105.86881399
       }
     ]
   },
   "KLSER": {
     "Hisse_Kodu": "KLSER",
     "Hisse_Adi": "KALESERAMİK, ÇANAKKALE KALEBODUR SERAMİK SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -308954.0,
-    "Toplam_Net_Tutar_USD": 4930526.996309708,
+    "Toplam_Net_Nominal_TL": 663992.0,
+    "Toplam_Net_Tutar_USD": 5505134.260826708,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -16209,14 +16734,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -440313.5,
         "Net_Tutar_USD": -265671.8040489303
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 972946.0,
+        "Net_Tutar_USD": 574607.264517
       }
     ]
   },
   "KMPUR": {
     "Hisse_Kodu": "KMPUR",
     "Hisse_Adi": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 1164215.0,
-    "Toplam_Net_Tutar_USD": -994240.024290727,
+    "Toplam_Net_Nominal_TL": 1630506.0,
+    "Toplam_Net_Tutar_USD": -900435.5388839259,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -16347,6 +16877,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3851177.0,
         "Net_Tutar_USD": 1489896.5180195011
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 466291.0,
+        "Net_Tutar_USD": 93804.4854068011
       }
     ]
   },
@@ -16421,8 +16956,8 @@
   "KONTR": {
     "Hisse_Kodu": "KONTR",
     "Hisse_Adi": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.",
-    "Toplam_Net_Nominal_TL": -28196341.5,
-    "Toplam_Net_Tutar_USD": -6354599.674219832,
+    "Toplam_Net_Nominal_TL": -19910047.5,
+    "Toplam_Net_Tutar_USD": -5186884.56776385,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -16553,14 +17088,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 22439827.5,
         "Net_Tutar_USD": 4465479.035004407
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 8286294.0,
+        "Net_Tutar_USD": 1167715.1064559817
       }
     ]
   },
   "KONYA": {
     "Hisse_Kodu": "KONYA",
     "Hisse_Adi": "KONYA ÇİMENTO SANAYİİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -25846.0,
-    "Toplam_Net_Tutar_USD": -865595.5618700385,
+    "Toplam_Net_Nominal_TL": -22636.0,
+    "Toplam_Net_Tutar_USD": -590688.6909659375,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -16691,14 +17231,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -5067.0,
         "Net_Tutar_USD": -475137.18696936965
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3210.0,
+        "Net_Tutar_USD": 274906.87090410106
       }
     ]
   },
   "KOPOL": {
     "Hisse_Kodu": "KOPOL",
     "Hisse_Adi": "KOZA POLYESTER SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -22443188.0,
-    "Toplam_Net_Tutar_USD": -5315981.993682395,
+    "Toplam_Net_Nominal_TL": -14014078.0,
+    "Toplam_Net_Tutar_USD": -4219848.924468494,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -16829,14 +17374,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 496229.0,
         "Net_Tutar_USD": 157660.02222950011
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 8429110.0,
+        "Net_Tutar_USD": 1096133.0692139007
       }
     ]
   },
   "KORDS": {
     "Hisse_Kodu": "KORDS",
     "Hisse_Adi": "KORDSA TEKNİK TEKSTİL A.Ş.",
-    "Toplam_Net_Nominal_TL": -1944715.0,
-    "Toplam_Net_Tutar_USD": -3397261.5627357243,
+    "Toplam_Net_Nominal_TL": -1840364.0,
+    "Toplam_Net_Tutar_USD": -3291327.9425049266,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -16967,6 +17517,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1237442.0,
         "Net_Tutar_USD": -1528107.0088574495
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 104351.0,
+        "Net_Tutar_USD": 105933.62023079768
       }
     ]
   },
@@ -17204,8 +17759,8 @@
   "KRDMA": {
     "Hisse_Kodu": "KRDMA",
     "Hisse_Adi": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş. A GRUBU",
-    "Toplam_Net_Nominal_TL": -4671467.5,
-    "Toplam_Net_Tutar_USD": -3711416.435639986,
+    "Toplam_Net_Nominal_TL": -5509052.5,
+    "Toplam_Net_Tutar_USD": -4214529.072200992,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -17336,14 +17891,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -4322277.0,
         "Net_Tutar_USD": -3188566.5580187067
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -837585.0,
+        "Net_Tutar_USD": -503112.6365610063
       }
     ]
   },
   "KRDMD": {
     "Hisse_Kodu": "KRDMD",
     "Hisse_Adi": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş. D GRUBU",
-    "Toplam_Net_Nominal_TL": 83170322.66600001,
-    "Toplam_Net_Tutar_USD": 65430845.86455205,
+    "Toplam_Net_Nominal_TL": 93415987.66600001,
+    "Toplam_Net_Tutar_USD": 74552589.11675605,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -17474,6 +18034,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2162853.0,
         "Net_Tutar_USD": -1362977.5022889972
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 10245665.0,
+        "Net_Tutar_USD": 9121743.252204001
       }
     ]
   },
@@ -17548,8 +18113,8 @@
   "KTLEV": {
     "Hisse_Kodu": "KTLEV",
     "Hisse_Adi": "KATILIMEVİM TASARRUF FİNANSMAN A.Ş.",
-    "Toplam_Net_Nominal_TL": 31065148.5,
-    "Toplam_Net_Tutar_USD": -23834630.871715948,
+    "Toplam_Net_Nominal_TL": 20766759.5,
+    "Toplam_Net_Tutar_USD": -39959431.927478,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -17680,14 +18245,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -54810038.0,
         "Net_Tutar_USD": -70012470.85101306
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -10298389.0,
+        "Net_Tutar_USD": -16124801.055762053
       }
     ]
   },
   "KUYAS": {
     "Hisse_Kodu": "KUYAS",
     "Hisse_Adi": "KUYAŞ YATIRIM A.Ş.",
-    "Toplam_Net_Nominal_TL": 13849968.0,
-    "Toplam_Net_Tutar_USD": 26480485.11999704,
+    "Toplam_Net_Nominal_TL": 19164874.0,
+    "Toplam_Net_Tutar_USD": 36518727.07885502,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -17818,14 +18388,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 10917359.0,
         "Net_Tutar_USD": 18792186.891066983
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 5314906.0,
+        "Net_Tutar_USD": 10038241.958857983
       }
     ]
   },
   "KZBGY": {
     "Hisse_Kodu": "KZBGY",
     "Hisse_Adi": "KIZILBÜK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 7263623.0,
-    "Toplam_Net_Tutar_USD": 1205366.5444165021,
+    "Toplam_Net_Nominal_TL": 5643874.0,
+    "Toplam_Net_Tutar_USD": 1057244.3293656036,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -17946,6 +18521,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3522824.0,
         "Net_Tutar_USD": 284898.65951459855
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1619749.0,
+        "Net_Tutar_USD": -148122.2150508985
       }
     ]
   },
@@ -18020,8 +18600,8 @@
   "LIDER": {
     "Hisse_Kodu": "LIDER",
     "Hisse_Adi": "LDR TURİZM A.Ş.",
-    "Toplam_Net_Nominal_TL": 1694425.0,
-    "Toplam_Net_Tutar_USD": 4580456.047569094,
+    "Toplam_Net_Nominal_TL": 699572.0,
+    "Toplam_Net_Tutar_USD": 1441850.5307921004,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -18152,14 +18732,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -323412.0,
         "Net_Tutar_USD": -926182.5899953991
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -994853.0,
+        "Net_Tutar_USD": -3138605.516776994
       }
     ]
   },
   "LOGO": {
     "Hisse_Kodu": "LOGO",
     "Hisse_Adi": "LOGO YAZILIM SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -3167472.0,
-    "Toplam_Net_Tutar_USD": -14284562.99041762,
+    "Toplam_Net_Nominal_TL": -3208037.0,
+    "Toplam_Net_Tutar_USD": -14378737.24434342,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -18290,14 +18875,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -829259.0,
         "Net_Tutar_USD": -2550161.9204627983
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -40565.0,
+        "Net_Tutar_USD": -94174.25392580032
       }
     ]
   },
   "MAGEN": {
     "Hisse_Kodu": "MAGEN",
     "Hisse_Adi": "MARGÜN ENERJİ ÜRETİM SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 16986081.0,
-    "Toplam_Net_Tutar_USD": 27194720.548817225,
+    "Toplam_Net_Nominal_TL": 18103905.0,
+    "Toplam_Net_Tutar_USD": 28561390.24006643,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -18428,6 +19018,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3731712.0,
         "Net_Tutar_USD": -3849026.9773291945
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1117824.0,
+        "Net_Tutar_USD": 1366669.6912492067
       }
     ]
   },
@@ -18490,8 +19085,8 @@
   "MAVI": {
     "Hisse_Kodu": "MAVI",
     "Hisse_Adi": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 55507150.333000004,
-    "Toplam_Net_Tutar_USD": 107422239.68665129,
+    "Toplam_Net_Nominal_TL": 64971312.333000004,
+    "Toplam_Net_Tutar_USD": 116527139.1218302,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -18622,6 +19217,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 8463782.5,
         "Net_Tutar_USD": 8234284.098601304
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 9464162.0,
+        "Net_Tutar_USD": 9104899.435178898
       }
     ]
   },
@@ -18696,8 +19296,8 @@
   "MEGMT": {
     "Hisse_Kodu": "MEGMT",
     "Hisse_Adi": "MEGA METAL SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 10986228.0,
-    "Toplam_Net_Tutar_USD": 13250209.75307705,
+    "Toplam_Net_Nominal_TL": 13898446.0,
+    "Toplam_Net_Tutar_USD": 18692196.326170065,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -18818,6 +19418,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -417060.0,
         "Net_Tutar_USD": -158583.49477799237
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2912218.0,
+        "Net_Tutar_USD": 5441986.573093012
       }
     ]
   },
@@ -18852,8 +19457,8 @@
   "MGROS": {
     "Hisse_Kodu": "MGROS",
     "Hisse_Adi": "MİGROS TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 5329487.5,
-    "Toplam_Net_Tutar_USD": 100863116.44259891,
+    "Toplam_Net_Nominal_TL": 8298155.0,
+    "Toplam_Net_Tutar_USD": 144107396.7796649,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -18984,6 +19589,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1705449.5,
         "Net_Tutar_USD": -23226269.82010603
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2968667.5,
+        "Net_Tutar_USD": 43244280.337065995
       }
     ]
   },
@@ -19018,8 +19628,8 @@
   "MIATK": {
     "Hisse_Kodu": "MIATK",
     "Hisse_Adi": "MİA TEKNOLOJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 14936256.0,
-    "Toplam_Net_Tutar_USD": 12294017.382597215,
+    "Toplam_Net_Nominal_TL": 17005606.0,
+    "Toplam_Net_Tutar_USD": 14126550.676713236,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -19150,6 +19760,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 48353.5,
         "Net_Tutar_USD": -126013.9201400131
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2069350.0,
+        "Net_Tutar_USD": 1832533.2941160202
       }
     ]
   },
@@ -19169,8 +19784,8 @@
   "MOBTL": {
     "Hisse_Kodu": "MOBTL",
     "Hisse_Adi": "MOBİLTEL İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 5417111.0,
-    "Toplam_Net_Tutar_USD": 1682531.1501643714,
+    "Toplam_Net_Nominal_TL": 11464399.0,
+    "Toplam_Net_Tutar_USD": 3474009.90151657,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -19246,14 +19861,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -9324774.0,
         "Net_Tutar_USD": -2255417.8961368985
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 6047288.0,
+        "Net_Tutar_USD": 1791478.7513521984
       }
     ]
   },
   "MPARK": {
     "Hisse_Kodu": "MPARK",
     "Hisse_Adi": "MLP SAĞLIK HİZMETLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -10806125.0,
-    "Toplam_Net_Tutar_USD": -86095324.32701138,
+    "Toplam_Net_Nominal_TL": -9792599.0,
+    "Toplam_Net_Tutar_USD": -76389020.64400008,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -19384,14 +20004,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 147948.0,
         "Net_Tutar_USD": 1346393.0858576
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1013526.0,
+        "Net_Tutar_USD": 9706303.6830113
       }
     ]
   },
   "NATEN": {
     "Hisse_Kodu": "NATEN",
     "Hisse_Adi": "NATUREL YENİLENEBİLİR ENERJİ TİCARET A.Ş.  ",
-    "Toplam_Net_Nominal_TL": -6213560.0,
-    "Toplam_Net_Tutar_USD": -14562967.59154197,
+    "Toplam_Net_Nominal_TL": -6549678.0,
+    "Toplam_Net_Tutar_USD": -14754297.27789337,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -19522,14 +20147,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 572640.0,
         "Net_Tutar_USD": 87789.74975517951
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -336118.0,
+        "Net_Tutar_USD": -191329.68635139987
       }
     ]
   },
   "NTGAZ": {
     "Hisse_Kodu": "NTGAZ",
     "Hisse_Adi": "NATURELGAZ SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 10901680.0,
-    "Toplam_Net_Tutar_USD": 2437815.7530062273,
+    "Toplam_Net_Nominal_TL": 11142399.0,
+    "Toplam_Net_Tutar_USD": 2479133.5656841267,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -19590,14 +20220,19 @@
         "ay": "2024-12",
         "Net_Nominal_TL": 10491912.0,
         "Net_Tutar_USD": 1885178.1673863605
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 240719.0,
+        "Net_Tutar_USD": 41317.812677899376
       }
     ]
   },
   "NTHOL": {
     "Hisse_Kodu": "NTHOL",
     "Hisse_Adi": "NET HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": -1902920.0,
-    "Toplam_Net_Tutar_USD": 548468.5504964301,
+    "Toplam_Net_Nominal_TL": -5004919.0,
+    "Toplam_Net_Tutar_USD": -2195568.1218529707,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -19728,14 +20363,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -4584780.0,
         "Net_Tutar_USD": -4270762.305147649
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -3101999.0,
+        "Net_Tutar_USD": -2744036.672349401
       }
     ]
   },
   "NUHCM": {
     "Hisse_Kodu": "NUHCM",
     "Hisse_Adi": "NUH ÇİMENTO SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 1008357.0,
-    "Toplam_Net_Tutar_USD": 7962714.825339813,
+    "Toplam_Net_Nominal_TL": 1318539.0,
+    "Toplam_Net_Tutar_USD": 9700673.087971164,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -19866,14 +20506,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -102690.0,
         "Net_Tutar_USD": -818227.1009248011
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 310182.0,
+        "Net_Tutar_USD": 1737958.2626313511
       }
     ]
   },
   "ODAS": {
     "Hisse_Kodu": "ODAS",
     "Hisse_Adi": "ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 21735006.0,
-    "Toplam_Net_Tutar_USD": 1489173.9200438634,
+    "Toplam_Net_Nominal_TL": 20288917.0,
+    "Toplam_Net_Tutar_USD": 1105004.8768213615,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -20004,6 +20649,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 10531255.0,
         "Net_Tutar_USD": 1788102.985494703
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1446089.0,
+        "Net_Tutar_USD": -384169.0432225019
       }
     ]
   },
@@ -20038,8 +20688,8 @@
   "OTKAR": {
     "Hisse_Kodu": "OTKAR",
     "Hisse_Adi": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 624287.0,
-    "Toplam_Net_Tutar_USD": 19222547.97506752,
+    "Toplam_Net_Nominal_TL": 23610.0,
+    "Toplam_Net_Tutar_USD": 13869900.73566182,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -20170,14 +20820,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1319639.0,
         "Net_Tutar_USD": -11227467.867360696
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -600677.0,
+        "Net_Tutar_USD": -5352647.239405699
       }
     ]
   },
   "OYAKC": {
     "Hisse_Kodu": "OYAKC",
     "Hisse_Adi": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
-    "Toplam_Net_Nominal_TL": 95150241.0,
-    "Toplam_Net_Tutar_USD": 85407383.16999444,
+    "Toplam_Net_Nominal_TL": 120514945.5,
+    "Toplam_Net_Tutar_USD": 99615472.49736755,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -20308,14 +20963,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 9978402.0,
         "Net_Tutar_USD": 5408356.06469059
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 25364704.5,
+        "Net_Tutar_USD": 14208089.327373102
       }
     ]
   },
   "OYYAT": {
     "Hisse_Kodu": "OYYAT",
     "Hisse_Adi": "OYAK YATIRIM MENKUL DEĞERLER A.Ş.",
-    "Toplam_Net_Nominal_TL": -3731152.0,
-    "Toplam_Net_Tutar_USD": -4745252.840946002,
+    "Toplam_Net_Nominal_TL": -3935831.0,
+    "Toplam_Net_Tutar_USD": -5009487.0532560125,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -20376,14 +21036,19 @@
         "ay": "2024-12",
         "Net_Nominal_TL": -688177.0,
         "Net_Tutar_USD": -674665.3269338496
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -204679.0,
+        "Net_Tutar_USD": -264234.21231001057
       }
     ]
   },
   "OZKGY": {
     "Hisse_Kodu": "OZKGY",
     "Hisse_Adi": "ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 17079789.0,
-    "Toplam_Net_Tutar_USD": 5477939.675540533,
+    "Toplam_Net_Nominal_TL": 15786630.0,
+    "Toplam_Net_Tutar_USD": 5112425.996457534,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -20514,6 +21179,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3000735.0,
         "Net_Tutar_USD": -872433.7681296989
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1293159.0,
+        "Net_Tutar_USD": -365513.679082999
       }
     ]
   },
@@ -20548,8 +21218,8 @@
   "PARSN": {
     "Hisse_Kodu": "PARSN",
     "Hisse_Adi": "PARSAN MAKİNA PARÇALARI SAN.A.Ş.",
-    "Toplam_Net_Nominal_TL": 217878.5,
-    "Toplam_Net_Tutar_USD": 50479.814648687374,
+    "Toplam_Net_Nominal_TL": 173046.5,
+    "Toplam_Net_Tutar_USD": -36242.14592393255,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -20680,14 +21350,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -338124.0,
         "Net_Tutar_USD": -635185.51612218
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -44832.0,
+        "Net_Tutar_USD": -86721.96057261992
       }
     ]
   },
   "PASEU": {
     "Hisse_Kodu": "PASEU",
     "Hisse_Adi": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 13253516.0,
-    "Toplam_Net_Tutar_USD": -2777183.013220787,
+    "Toplam_Net_Nominal_TL": 9081585.0,
+    "Toplam_Net_Tutar_USD": -18449016.72519678,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -20818,6 +21493,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1319728.0,
         "Net_Tutar_USD": 3200082.392180994
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -4171931.0,
+        "Net_Tutar_USD": -15671833.711975992
       }
     ]
   },
@@ -20917,8 +21597,8 @@
   "PETKM": {
     "Hisse_Kodu": "PETKM",
     "Hisse_Adi": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 220726245.5,
-    "Toplam_Net_Tutar_USD": 111026273.86741939,
+    "Toplam_Net_Nominal_TL": 232122244.5,
+    "Toplam_Net_Tutar_USD": 117799243.41718337,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -21049,14 +21729,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 46343913.5,
         "Net_Tutar_USD": 21981486.100254
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 11395999.0,
+        "Net_Tutar_USD": 6772969.5497639775
       }
     ]
   },
   "PGSUS": {
     "Hisse_Kodu": "PGSUS",
     "Hisse_Adi": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": -47176265.0,
-    "Toplam_Net_Tutar_USD": -245436300.17399567,
+    "Toplam_Net_Nominal_TL": -44373356.0,
+    "Toplam_Net_Tutar_USD": -233764056.79570168,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -21187,14 +21872,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -4992152.0,
         "Net_Tutar_USD": -20519762.790440023
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2802909.0,
+        "Net_Tutar_USD": 11672243.378293991
       }
     ]
   },
   "POLHO": {
     "Hisse_Kodu": "POLHO",
     "Hisse_Adi": "POLİSAN HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": -19422326.0,
-    "Toplam_Net_Tutar_USD": 729211.3790579438,
+    "Toplam_Net_Nominal_TL": -23746083.0,
+    "Toplam_Net_Tutar_USD": -1455673.9847684577,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -21325,14 +22015,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2356308.0,
         "Net_Tutar_USD": 964269.2199751996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -4323757.0,
+        "Net_Tutar_USD": -2184885.3638264015
       }
     ]
   },
   "POLTK": {
     "Hisse_Kodu": "POLTK",
     "Hisse_Adi": "POLİTEKNİK METAL SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -13774.0,
-    "Toplam_Net_Tutar_USD": 18886786.227759704,
+    "Toplam_Net_Nominal_TL": -14861.0,
+    "Toplam_Net_Tutar_USD": 18768437.952505004,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -21463,14 +22158,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3910.0,
         "Net_Tutar_USD": 386610.2596502993
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1087.0,
+        "Net_Tutar_USD": -118348.27525470033
       }
     ]
   },
   "PSGYO": {
     "Hisse_Kodu": "PSGYO",
     "Hisse_Adi": "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 80986997.0,
-    "Toplam_Net_Tutar_USD": -3886035.14910556,
+    "Toplam_Net_Nominal_TL": 71846062.0,
+    "Toplam_Net_Tutar_USD": -4037424.367226552,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -21601,14 +22301,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 99278058.0,
         "Net_Tutar_USD": 4976291.005978897
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -9140935.0,
+        "Net_Tutar_USD": -151389.21812099218
       }
     ]
   },
   "QUAGR": {
     "Hisse_Kodu": "QUAGR",
     "Hisse_Adi": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 41205776.0,
-    "Toplam_Net_Tutar_USD": -5608278.273435289,
+    "Toplam_Net_Nominal_TL": 15500862.0,
+    "Toplam_Net_Tutar_USD": -7683209.755732292,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -21739,14 +22444,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -5556925.0,
         "Net_Tutar_USD": -360529.4389408976
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -25704914.0,
+        "Net_Tutar_USD": -2074931.4822970033
       }
     ]
   },
   "REEDR": {
     "Hisse_Kodu": "REEDR",
     "Hisse_Adi": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 30014808.0,
-    "Toplam_Net_Tutar_USD": 18618600.15499121,
+    "Toplam_Net_Nominal_TL": 26387234.0,
+    "Toplam_Net_Tutar_USD": 17863828.13028501,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -21877,14 +22587,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 10507900.0,
         "Net_Tutar_USD": 1410351.6416583061
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -3627574.0,
+        "Net_Tutar_USD": -754772.0247061998
       }
     ]
   },
   "RYGYO": {
     "Hisse_Kodu": "RYGYO",
     "Hisse_Adi": "REYSAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 126038982.0,
-    "Toplam_Net_Tutar_USD": 76743029.51883629,
+    "Toplam_Net_Nominal_TL": 130991055.0,
+    "Toplam_Net_Tutar_USD": 80341296.34539029,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -22015,14 +22730,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2320359.5,
         "Net_Tutar_USD": 1807230.0603612997
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4952073.0,
+        "Net_Tutar_USD": 3598266.8265539967
       }
     ]
   },
   "RYSAS": {
     "Hisse_Kodu": "RYSAS",
     "Hisse_Adi": "REYSAŞ TAŞIMACILIK VE LOJİSTİK TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -18694385.0,
-    "Toplam_Net_Tutar_USD": -1783822.068550881,
+    "Toplam_Net_Nominal_TL": -16502202.0,
+    "Toplam_Net_Tutar_USD": -1018675.0757405795,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -22153,14 +22873,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 709548.0,
         "Net_Tutar_USD": 194635.10892139748
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2192183.0,
+        "Net_Tutar_USD": 765146.9928103015
       }
     ]
   },
   "SAHOL": {
     "Hisse_Kodu": "SAHOL",
     "Hisse_Adi": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": -53854559.16720003,
-    "Toplam_Net_Tutar_USD": -98110505.33476686,
+    "Toplam_Net_Nominal_TL": -42917686.16720003,
+    "Toplam_Net_Tutar_USD": -73181002.3296318,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -22291,14 +23016,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -18867387.0,
         "Net_Tutar_USD": -39799853.92658496
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 10936873.0,
+        "Net_Tutar_USD": 24929503.00513506
       }
     ]
   },
   "SARKY": {
     "Hisse_Kodu": "SARKY",
     "Hisse_Adi": "SARKUYSAN ELEKTROLİTİK BAKIR SANAYİİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 8430277.5,
-    "Toplam_Net_Tutar_USD": 5324946.048600674,
+    "Toplam_Net_Nominal_TL": 6714711.5,
+    "Toplam_Net_Tutar_USD": 4133415.3016075715,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -22429,14 +23159,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3079517.0,
         "Net_Tutar_USD": 2183344.3941475004
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1715566.0,
+        "Net_Tutar_USD": -1191530.7469931021
       }
     ]
   },
   "SASA": {
     "Hisse_Kodu": "SASA",
     "Hisse_Adi": "SASA POLYESTER  SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -5469117696.0,
-    "Toplam_Net_Tutar_USD": -560714355.9975463,
+    "Toplam_Net_Nominal_TL": -5549512268.0,
+    "Toplam_Net_Tutar_USD": -571507861.1648263,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -22567,14 +23302,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -438007397.5,
         "Net_Tutar_USD": -23667186.435212016
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -80394572.0,
+        "Net_Tutar_USD": -10793505.167279959
       }
     ]
   },
   "SDTTR": {
     "Hisse_Kodu": "SDTTR",
     "Hisse_Adi": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. ",
-    "Toplam_Net_Nominal_TL": 859606.5,
-    "Toplam_Net_Tutar_USD": 2769801.438298704,
+    "Toplam_Net_Nominal_TL": 693282.5,
+    "Toplam_Net_Tutar_USD": 1981450.935163008,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -22705,14 +23445,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 551791.5,
         "Net_Tutar_USD": 2444831.9172970057
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -166324.0,
+        "Net_Tutar_USD": -788350.503135696
       }
     ]
   },
   "SELEC": {
     "Hisse_Kodu": "SELEC",
     "Hisse_Adi": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -7487916.0,
-    "Toplam_Net_Tutar_USD": -9759967.895080257,
+    "Toplam_Net_Nominal_TL": -6434462.0,
+    "Toplam_Net_Tutar_USD": -7767583.901139256,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -22843,14 +23588,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -665797.0,
         "Net_Tutar_USD": -1229243.7190656997
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1053454.0,
+        "Net_Tutar_USD": 1992383.9939410016
       }
     ]
   },
   "SISE": {
     "Hisse_Kodu": "SISE",
     "Hisse_Adi": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
-    "Toplam_Net_Nominal_TL": 24727049.5,
-    "Toplam_Net_Tutar_USD": -22266441.478222907,
+    "Toplam_Net_Nominal_TL": 31401212.5,
+    "Toplam_Net_Tutar_USD": -15039698.657657921,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -22981,14 +23731,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 16227774.5,
         "Net_Tutar_USD": 16207923.042888045
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 6674163.0,
+        "Net_Tutar_USD": 7226742.820564985
       }
     ]
   },
   "SKBNK": {
     "Hisse_Kodu": "SKBNK",
     "Hisse_Adi": "ŞEKERBANK T.A.Ş.",
-    "Toplam_Net_Nominal_TL": 19190109.0,
-    "Toplam_Net_Tutar_USD": 4375311.094261013,
+    "Toplam_Net_Nominal_TL": -13983803.0,
+    "Toplam_Net_Tutar_USD": -4003228.609622486,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -23119,6 +23874,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -42637841.0,
         "Net_Tutar_USD": -10450700.784458697
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -33173912.0,
+        "Net_Tutar_USD": -8378539.703883499
       }
     ]
   },
@@ -23168,8 +23928,8 @@
   "SMRTG": {
     "Hisse_Kodu": "SMRTG",
     "Hisse_Adi": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -1712825.0,
-    "Toplam_Net_Tutar_USD": -4102810.8136396743,
+    "Toplam_Net_Nominal_TL": 13260369.0,
+    "Toplam_Net_Tutar_USD": -1937125.2093059756,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -23300,14 +24060,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2341381.0,
         "Net_Tutar_USD": 372744.5258817002
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 14973194.0,
+        "Net_Tutar_USD": 2165685.6043336987
       }
     ]
   },
   "SNGYO": {
     "Hisse_Kodu": "SNGYO",
     "Hisse_Adi": "SİNPAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": -29450587.0,
-    "Toplam_Net_Tutar_USD": 625200.4729596525,
+    "Toplam_Net_Nominal_TL": -29005790.0,
+    "Toplam_Net_Tutar_USD": 624467.3809921555,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -23438,6 +24203,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -21620607.0,
         "Net_Tutar_USD": -2088685.0499326997
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 444797.0,
+        "Net_Tutar_USD": -733.091967497021
       }
     ]
   },
@@ -23512,8 +24282,8 @@
   "SOKM": {
     "Hisse_Kodu": "SOKM",
     "Hisse_Adi": "ŞOK MARKETLER TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 3657369.666000001,
-    "Toplam_Net_Tutar_USD": 9886183.304883435,
+    "Toplam_Net_Nominal_TL": -1987573.3339999989,
+    "Toplam_Net_Tutar_USD": 3065789.524647832,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -23644,14 +24414,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -11010895.0,
         "Net_Tutar_USD": -12616524.075589195
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -5644943.0,
+        "Net_Tutar_USD": -6820393.780235603
       }
     ]
   },
   "SRVGY": {
     "Hisse_Kodu": "SRVGY",
     "Hisse_Adi": "SERVET GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 99515627.0,
-    "Toplam_Net_Tutar_USD": 9086629.676386137,
+    "Toplam_Net_Nominal_TL": 147910842.0,
+    "Toplam_Net_Tutar_USD": 12556381.282144334,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -23782,14 +24557,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3006132.0,
         "Net_Tutar_USD": 282352.2781996988
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 48395215.0,
+        "Net_Tutar_USD": 3469751.6057581976
       }
     ]
   },
   "SUNTK": {
     "Hisse_Kodu": "SUNTK",
     "Hisse_Adi": "SUN TEKSTİL SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 2514361.0,
-    "Toplam_Net_Tutar_USD": 1646500.5818829043,
+    "Toplam_Net_Nominal_TL": 2344995.0,
+    "Toplam_Net_Tutar_USD": 1466847.1790203052,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -23920,14 +24700,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 293877.0,
         "Net_Tutar_USD": 210471.3426649999
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -169366.0,
+        "Net_Tutar_USD": -179653.40286259912
       }
     ]
   },
   "SURGY": {
     "Hisse_Kodu": "SURGY",
     "Hisse_Adi": "SUR TATİL EVLERİ GAYRİMENKUL YATIRIM ORTAKLIGI A.S.",
-    "Toplam_Net_Nominal_TL": 4126893.0,
-    "Toplam_Net_Tutar_USD": 5934882.2060515145,
+    "Toplam_Net_Nominal_TL": 2658125.0,
+    "Toplam_Net_Tutar_USD": 3546947.9786473224,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -24058,14 +24843,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -148155.0,
         "Net_Tutar_USD": -43381.46692939848
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1468768.0,
+        "Net_Tutar_USD": -2387934.227404192
       }
     ]
   },
   "SUWEN": {
     "Hisse_Kodu": "SUWEN",
     "Hisse_Adi": "SUWEN TEKSTİL SANAYİ PAZARLAMA A.Ş.",
-    "Toplam_Net_Nominal_TL": 6115156.0,
-    "Toplam_Net_Tutar_USD": -8110358.583089306,
+    "Toplam_Net_Nominal_TL": 5759066.0,
+    "Toplam_Net_Tutar_USD": -8187342.208898886,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -24196,14 +24986,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -399172.0,
         "Net_Tutar_USD": -77645.33609433006
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -356090.0,
+        "Net_Tutar_USD": -76983.62580958009
       }
     ]
   },
   "TABGD": {
     "Hisse_Kodu": "TABGD",
     "Hisse_Adi": "TAB GIDA SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 27626235.0,
-    "Toplam_Net_Tutar_USD": 146430427.76230288,
+    "Toplam_Net_Nominal_TL": 27329045.0,
+    "Toplam_Net_Tutar_USD": 144840548.19214278,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -24334,6 +25129,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -463659.0,
         "Net_Tutar_USD": -2576150.1636457965
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -297190.0,
+        "Net_Tutar_USD": -1589879.5701600984
       }
     ]
   },
@@ -24408,8 +25208,8 @@
   "TATEN": {
     "Hisse_Kodu": "TATEN",
     "Hisse_Adi": "TATLIPINAR ENERJİ ÜRETİM A.Ş.",
-    "Toplam_Net_Nominal_TL": -11212297.0,
-    "Toplam_Net_Tutar_USD": -4082364.8959462773,
+    "Toplam_Net_Nominal_TL": 33623345.0,
+    "Toplam_Net_Tutar_USD": 8374482.104412334,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -24540,6 +25340,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2475977.0,
         "Net_Tutar_USD": -585925.910464704
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 44835642.0,
+        "Net_Tutar_USD": 12456847.000358611
       }
     ]
   },
@@ -24614,8 +25419,8 @@
   "TAVHL": {
     "Hisse_Kodu": "TAVHL",
     "Hisse_Adi": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 39548273.5,
-    "Toplam_Net_Tutar_USD": 256487860.99376246,
+    "Toplam_Net_Nominal_TL": 34923569.0,
+    "Toplam_Net_Tutar_USD": 223764093.59441447,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -24746,14 +25551,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2891884.0,
         "Net_Tutar_USD": 19656293.96823898
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -4624704.5,
+        "Net_Tutar_USD": -32723767.39934799
       }
     ]
   },
   "TCELL": {
     "Hisse_Kodu": "TCELL",
     "Hisse_Adi": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 26422392.16600001,
-    "Toplam_Net_Tutar_USD": -2415413.649081826,
+    "Toplam_Net_Nominal_TL": 25280873.16600001,
+    "Toplam_Net_Tutar_USD": -4833489.52497381,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -24884,14 +25694,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1241036.5,
         "Net_Tutar_USD": -4058787.566672027
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1141519.0,
+        "Net_Tutar_USD": -2418075.8758919835
       }
     ]
   },
   "TEZOL": {
     "Hisse_Kodu": "TEZOL",
     "Hisse_Adi": "EUROPAP TEZOL KAĞIT SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -4102424.0,
-    "Toplam_Net_Tutar_USD": -2475672.8748314115,
+    "Toplam_Net_Nominal_TL": -4183011.0,
+    "Toplam_Net_Tutar_USD": -2475392.7512059114,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -25022,14 +25837,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1148052.0,
         "Net_Tutar_USD": 388401.8208718002
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -80587.0,
+        "Net_Tutar_USD": 280.1236255001277
       }
     ]
   },
   "THYAO": {
     "Hisse_Kodu": "THYAO",
     "Hisse_Adi": "TÜRK HAVA YOLLARI A.O",
-    "Toplam_Net_Nominal_TL": -59615816.91679999,
-    "Toplam_Net_Tutar_USD": -473022122.86067975,
+    "Toplam_Net_Nominal_TL": -52780243.41679999,
+    "Toplam_Net_Tutar_USD": -424605475.94073975,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -25160,14 +25980,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1102373.0,
         "Net_Tutar_USD": -8492908.081299782
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 6835573.5,
+        "Net_Tutar_USD": 48416646.919939995
       }
     ]
   },
   "TKFEN": {
     "Hisse_Kodu": "TKFEN",
     "Hisse_Adi": "TEKFEN HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": -18012118.5,
-    "Toplam_Net_Tutar_USD": -48488504.28303722,
+    "Toplam_Net_Nominal_TL": -13848418.5,
+    "Toplam_Net_Tutar_USD": -38170137.35003621,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -25298,6 +26123,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1887689.0,
         "Net_Tutar_USD": -3635485.8700480014
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4163700.0,
+        "Net_Tutar_USD": 10318366.933001012
       }
     ]
   },
@@ -25397,8 +26227,8 @@
   "TMSN": {
     "Hisse_Kodu": "TMSN",
     "Hisse_Adi": "TÜMOSAN MOTOR VE TRAKTÖR SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 1500944.5,
-    "Toplam_Net_Tutar_USD": 3735379.928288074,
+    "Toplam_Net_Nominal_TL": 1390029.5,
+    "Toplam_Net_Tutar_USD": 3467997.9181018732,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -25529,14 +26359,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -22288.0,
         "Net_Tutar_USD": -78732.34453830123
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -110915.0,
+        "Net_Tutar_USD": -267382.01018620096
       }
     ]
   },
   "TOASO": {
     "Hisse_Kodu": "TOASO",
     "Hisse_Adi": "TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş.",
-    "Toplam_Net_Nominal_TL": 1988994.8329999968,
-    "Toplam_Net_Tutar_USD": 3165140.931784004,
+    "Toplam_Net_Nominal_TL": 2319071.832999997,
+    "Toplam_Net_Tutar_USD": 4755813.54063502,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -25667,14 +26502,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -4632368.0,
         "Net_Tutar_USD": -31055740.890626997
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 330077.0,
+        "Net_Tutar_USD": 1590672.6088510156
       }
     ]
   },
   "TRCAS": {
     "Hisse_Kodu": "TRCAS",
     "Hisse_Adi": "TURCAS PETROL A.Ş.",
-    "Toplam_Net_Nominal_TL": 4814251.0,
-    "Toplam_Net_Tutar_USD": 3900136.5974193104,
+    "Toplam_Net_Nominal_TL": 4555134.0,
+    "Toplam_Net_Tutar_USD": 3639106.13132851,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -25805,14 +26645,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1950527.0,
         "Net_Tutar_USD": -2157787.8156803995
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -259117.0,
+        "Net_Tutar_USD": -261030.46609080024
       }
     ]
   },
   "TRGYO": {
     "Hisse_Kodu": "TRGYO",
     "Hisse_Adi": "TORUNLAR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 34106465.0,
-    "Toplam_Net_Tutar_USD": 52256962.425899915,
+    "Toplam_Net_Nominal_TL": 32264149.0,
+    "Toplam_Net_Tutar_USD": 48717297.667721115,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -25943,14 +26788,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2634301.0,
         "Net_Tutar_USD": -4931851.908558898
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1842316.0,
+        "Net_Tutar_USD": -3539664.7581788003
       }
     ]
   },
   "TSKB": {
     "Hisse_Kodu": "TSKB",
     "Hisse_Adi": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
-    "Toplam_Net_Nominal_TL": -10030025.0,
-    "Toplam_Net_Tutar_USD": 5530397.917802408,
+    "Toplam_Net_Nominal_TL": -644097.0,
+    "Toplam_Net_Tutar_USD": 8116561.369578108,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -26081,14 +26931,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -34808670.0,
         "Net_Tutar_USD": -9333969.621464796
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 9385928.0,
+        "Net_Tutar_USD": 2586163.4517757
       }
     ]
   },
   "TTKOM": {
     "Hisse_Kodu": "TTKOM",
     "Hisse_Adi": "TÜRK TELEKOMÜNİKASYON A.Ş.",
-    "Toplam_Net_Nominal_TL": 176242741.5,
-    "Toplam_Net_Tutar_USD": 227694181.85166803,
+    "Toplam_Net_Nominal_TL": 185269362.5,
+    "Toplam_Net_Tutar_USD": 240827554.46362004,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -26219,14 +27074,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -14036225.0,
         "Net_Tutar_USD": -19320512.243617
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 9026621.0,
+        "Net_Tutar_USD": 13133372.611952007
       }
     ]
   },
   "TTRAK": {
     "Hisse_Kodu": "TTRAK",
     "Hisse_Adi": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -2377487.5,
-    "Toplam_Net_Tutar_USD": -54756490.534759216,
+    "Toplam_Net_Nominal_TL": -2419657.5,
+    "Toplam_Net_Tutar_USD": -55161845.86775072,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -26357,14 +27217,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -611949.0,
         "Net_Tutar_USD": -6421630.098824501
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -42170.0,
+        "Net_Tutar_USD": -405355.33299149945
       }
     ]
   },
   "TUKAS": {
     "Hisse_Kodu": "TUKAS",
     "Hisse_Adi": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 139498660.5,
-    "Toplam_Net_Tutar_USD": 6961170.586347114,
+    "Toplam_Net_Nominal_TL": 162153999.5,
+    "Toplam_Net_Tutar_USD": 7833385.632991608,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -26495,14 +27360,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -39649797.0,
         "Net_Tutar_USD": -2058643.0354705974
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 22655339.0,
+        "Net_Tutar_USD": 872215.0466444939
       }
     ]
   },
   "TUPRS": {
     "Hisse_Kodu": "TUPRS",
     "Hisse_Adi": "TÜPRAŞ TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 55117416.6665,
-    "Toplam_Net_Tutar_USD": 170112948.50805336,
+    "Toplam_Net_Nominal_TL": 76725889.6665,
+    "Toplam_Net_Tutar_USD": 300851645.6235133,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -26633,14 +27503,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 51097339.0,
         "Net_Tutar_USD": 282272553.22489977
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 21608473.0,
+        "Net_Tutar_USD": 130738697.11545992
       }
     ]
   },
   "TURSG": {
     "Hisse_Kodu": "TURSG",
     "Hisse_Adi": "TÜRKİYE SİGORTA A.Ş.",
-    "Toplam_Net_Nominal_TL": 63241425.5,
-    "Toplam_Net_Tutar_USD": 71630117.3501519,
+    "Toplam_Net_Nominal_TL": 104099022.5,
+    "Toplam_Net_Tutar_USD": 84040813.0342365,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -26771,14 +27646,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 47257156.0,
         "Net_Tutar_USD": 13501292.942846
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 40857597.0,
+        "Net_Tutar_USD": 12410695.68408461
       }
     ]
   },
   "ULKER": {
     "Hisse_Kodu": "ULKER",
     "Hisse_Adi": "ÜLKER BİSKÜVİ SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 26095910.5,
-    "Toplam_Net_Tutar_USD": 82345576.60966179,
+    "Toplam_Net_Nominal_TL": 26923337.5,
+    "Toplam_Net_Tutar_USD": 84459531.56496379,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -26909,6 +27789,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2994658.0,
         "Net_Tutar_USD": -7467426.012476996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 827427.0,
+        "Net_Tutar_USD": 2113954.955302
       }
     ]
   },
@@ -26983,8 +27868,8 @@
   "VAKBN": {
     "Hisse_Kodu": "VAKBN",
     "Hisse_Adi": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
-    "Toplam_Net_Nominal_TL": -79584734.0,
-    "Toplam_Net_Tutar_USD": -47973122.14823435,
+    "Toplam_Net_Nominal_TL": -76546605.0,
+    "Toplam_Net_Tutar_USD": -46520357.457527354,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -27115,14 +28000,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -9870408.0,
         "Net_Tutar_USD": -9193177.402891994
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3038129.0,
+        "Net_Tutar_USD": 1452764.690706998
       }
     ]
   },
   "VAKKO": {
     "Hisse_Kodu": "VAKKO",
     "Hisse_Adi": "VAKKO TEKSTİL VE HAZIR GİYİM SANAYİ İŞLETMELERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": -2573300.0,
-    "Toplam_Net_Tutar_USD": -4252184.969853353,
+    "Toplam_Net_Nominal_TL": -2114695.0,
+    "Toplam_Net_Tutar_USD": -3447442.901283752,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -27253,6 +28143,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 367431.0,
         "Net_Tutar_USD": 571864.994138401
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 458605.0,
+        "Net_Tutar_USD": 804742.0685696006
       }
     ]
   },
@@ -27382,8 +28277,8 @@
   "VESBE": {
     "Hisse_Kodu": "VESBE",
     "Hisse_Adi": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -19634608.0,
-    "Toplam_Net_Tutar_USD": -1058683.076540444,
+    "Toplam_Net_Nominal_TL": -15785617.0,
+    "Toplam_Net_Tutar_USD": -437900.61326270364,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -27514,14 +28409,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2746934.0,
         "Net_Tutar_USD": -447192.72341915965
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3848991.0,
+        "Net_Tutar_USD": 620782.4632777404
       }
     ]
   },
   "VESTL": {
     "Hisse_Kodu": "VESTL",
     "Hisse_Adi": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -2487286.0,
-    "Toplam_Net_Tutar_USD": 2024246.5213951804,
+    "Toplam_Net_Nominal_TL": -2728705.0,
+    "Toplam_Net_Tutar_USD": 1920161.8670150824,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -27652,14 +28552,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1748242.0,
         "Net_Tutar_USD": 1132243.1529113986
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -241419.0,
+        "Net_Tutar_USD": -104084.65438009799
       }
     ]
   },
   "VKGYO": {
     "Hisse_Kodu": "VKGYO",
     "Hisse_Adi": "VAKIF GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 44762745.0,
-    "Toplam_Net_Tutar_USD": 1861207.5119711217,
+    "Toplam_Net_Nominal_TL": 51582420.0,
+    "Toplam_Net_Tutar_USD": 2269520.0704384223,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -27720,6 +28625,11 @@
         "ay": "2024-12",
         "Net_Nominal_TL": -22179252.0,
         "Net_Tutar_USD": -1373611.0740198977
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 6819675.0,
+        "Net_Tutar_USD": 408312.5584673006
       }
     ]
   },
@@ -27862,8 +28772,8 @@
   "YEOTK": {
     "Hisse_Kodu": "YEOTK",
     "Hisse_Adi": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 2524113.5,
-    "Toplam_Net_Tutar_USD": 17649101.945574183,
+    "Toplam_Net_Nominal_TL": 3647634.5,
+    "Toplam_Net_Tutar_USD": 18722715.99976768,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -27994,14 +28904,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2217383.0,
         "Net_Tutar_USD": 2430808.3119823933
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1123521.0,
+        "Net_Tutar_USD": 1073614.0541934967
       }
     ]
   },
   "YGGYO": {
     "Hisse_Kodu": "YGGYO",
     "Hisse_Adi": "YENİ GİMAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 6687774.0,
-    "Toplam_Net_Tutar_USD": 12687608.063950846,
+    "Toplam_Net_Nominal_TL": 7947107.0,
+    "Toplam_Net_Tutar_USD": 18814076.571832843,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -28077,14 +28992,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 697810.0,
         "Net_Tutar_USD": 3274353.6708368994
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1259333.0,
+        "Net_Tutar_USD": 6126468.507881999
       }
     ]
   },
   "YKBNK": {
     "Hisse_Kodu": "YKBNK",
     "Hisse_Adi": "YAPI VE KREDİ BANKASI A.Ş.",
-    "Toplam_Net_Nominal_TL": 321832882.9999999,
-    "Toplam_Net_Tutar_USD": 263289259.64703846,
+    "Toplam_Net_Nominal_TL": 308145443.9999999,
+    "Toplam_Net_Tutar_USD": 254282507.47348833,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -28215,14 +29135,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -228533107.0,
         "Net_Tutar_USD": -188373090.87008
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -13687439.0,
+        "Net_Tutar_USD": -9006752.173550129
       }
     ]
   },
   "YYLGD": {
     "Hisse_Kodu": "YYLGD",
     "Hisse_Adi": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 18834422.0,
-    "Toplam_Net_Tutar_USD": 3360670.0471693,
+    "Toplam_Net_Nominal_TL": 12639680.0,
+    "Toplam_Net_Tutar_USD": 1726778.0400373992,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -28353,14 +29278,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -6169561.0,
         "Net_Tutar_USD": -1562673.102227699
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -6194742.0,
+        "Net_Tutar_USD": -1633892.0071319006
       }
     ]
   },
   "ZOREN": {
     "Hisse_Kodu": "ZOREN",
     "Hisse_Adi": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-    "Toplam_Net_Nominal_TL": 111416971.0,
-    "Toplam_Net_Tutar_USD": 10047653.118190475,
+    "Toplam_Net_Nominal_TL": 138578608.0,
+    "Toplam_Net_Tutar_USD": 11780953.285081878,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -28491,14 +29421,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -57637910.0,
         "Net_Tutar_USD": -3815944.8107202016
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 27161637.0,
+        "Net_Tutar_USD": 1733300.1668914035
       }
     ]
   },
   "ZRGYO": {
     "Hisse_Kodu": "ZRGYO",
     "Hisse_Adi": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 9248503.0,
-    "Toplam_Net_Tutar_USD": 6775544.006440073,
+    "Toplam_Net_Nominal_TL": 7942658.0,
+    "Toplam_Net_Tutar_USD": 6136688.484096074,
     "Aylik_Veriler": [
       {
         "ay": "2023-12",
@@ -28629,6 +29564,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3884518.0,
         "Net_Tutar_USD": -1907840.9459087998
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1305845.0,
+        "Net_Tutar_USD": -638855.5223439997
       }
     ]
   },
@@ -28849,8 +29789,8 @@
   "ARDYZ": {
     "Hisse_Kodu": "ARDYZ",
     "Hisse_Adi": "ARD GRUP BİLİŞİM TEKNOLOJİLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 580680.0,
-    "Toplam_Net_Tutar_USD": -1332947.0261772824,
+    "Toplam_Net_Nominal_TL": 1038521.0,
+    "Toplam_Net_Tutar_USD": -1031906.5884064799,
     "Aylik_Veriler": [
       {
         "ay": "2024-01",
@@ -28976,14 +29916,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -249113.0,
         "Net_Tutar_USD": -220823.72073990107
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 457841.0,
+        "Net_Tutar_USD": 301040.4377708025
       }
     ]
   },
   "ATATP": {
     "Hisse_Kodu": "ATATP",
     "Hisse_Adi": "ATP YAZILIM VE TEKNOLOJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 207556.0,
-    "Toplam_Net_Tutar_USD": 1957630.0166656226,
+    "Toplam_Net_Nominal_TL": -105592.0,
+    "Toplam_Net_Tutar_USD": 1006489.1365062222,
     "Aylik_Veriler": [
       {
         "ay": "2024-01",
@@ -29109,6 +30054,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -557687.0,
         "Net_Tutar_USD": -1933034.4927072003
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -313148.0,
+        "Net_Tutar_USD": -951140.8801594004
       }
     ]
   },
@@ -29392,8 +30342,8 @@
   "EGGUB": {
     "Hisse_Kodu": "EGGUB",
     "Hisse_Adi": "EGE GÜBRE SANAYİİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 713091.0,
-    "Toplam_Net_Tutar_USD": 2376546.7472435515,
+    "Toplam_Net_Nominal_TL": 1649772.0,
+    "Toplam_Net_Tutar_USD": 4908124.183891552,
     "Aylik_Veriler": [
       {
         "ay": "2024-01",
@@ -29494,6 +30444,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 290051.0,
         "Net_Tutar_USD": 957998.9373397976
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 936681.0,
+        "Net_Tutar_USD": 2531577.436648
       }
     ]
   },
@@ -29626,8 +30581,8 @@
   "GRSEL": {
     "Hisse_Kodu": "GRSEL",
     "Hisse_Adi": "GÜR-SEL TURİZM TAŞIMACILIK VE SERVİS TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 1738324.5,
-    "Toplam_Net_Tutar_USD": 9076644.071233168,
+    "Toplam_Net_Nominal_TL": 1926521.5,
+    "Toplam_Net_Tutar_USD": 10359235.395538066,
     "Aylik_Veriler": [
       {
         "ay": "2024-01",
@@ -29753,6 +30708,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -389539.0,
         "Net_Tutar_USD": -2972332.257054504
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 188197.0,
+        "Net_Tutar_USD": 1282591.3243048973
       }
     ]
   },
@@ -29822,8 +30782,8 @@
   "KATMR": {
     "Hisse_Kodu": "KATMR",
     "Hisse_Adi": "KATMERCİLER ARAÇ ÜSTÜ EKİPMAN SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 119255524.0,
-    "Toplam_Net_Tutar_USD": 6551907.333810655,
+    "Toplam_Net_Nominal_TL": 182452060.0,
+    "Toplam_Net_Tutar_USD": 10508954.399972653,
     "Aylik_Veriler": [
       {
         "ay": "2024-01",
@@ -29909,14 +30869,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 60139905.0,
         "Net_Tutar_USD": 3669486.1321031973
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 63196536.0,
+        "Net_Tutar_USD": 3957047.0661619976
       }
     ]
   },
   "KRDMB": {
     "Hisse_Kodu": "KRDMB",
     "Hisse_Adi": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.B GRUBU",
-    "Toplam_Net_Nominal_TL": -314539.0,
-    "Toplam_Net_Tutar_USD": -319197.2753945198,
+    "Toplam_Net_Nominal_TL": -7776638.0,
+    "Toplam_Net_Tutar_USD": -11424553.242301514,
     "Aylik_Veriler": [
       {
         "ay": "2024-01",
@@ -29972,6 +30937,11 @@
         "ay": "2024-12",
         "Net_Nominal_TL": -258822.0,
         "Net_Tutar_USD": -210725.9506920986
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -7462099.0,
+        "Net_Tutar_USD": -11105355.966906995
       }
     ]
   },
@@ -30195,8 +31165,8 @@
   "TNZTP": {
     "Hisse_Kodu": "TNZTP",
     "Hisse_Adi": "TAPDİ OKSİJEN ÖZEL SAĞLIK VE EĞİTİM HİZMETLERİ SANAYİ TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -8638743.0,
-    "Toplam_Net_Tutar_USD": -4186242.2878060085,
+    "Toplam_Net_Nominal_TL": -8253489.0,
+    "Toplam_Net_Tutar_USD": -3977684.5720693064,
     "Aylik_Veriler": [
       {
         "ay": "2024-01",
@@ -30322,14 +31292,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2716475.0,
         "Net_Tutar_USD": -1467556.3197726998
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 385254.0,
+        "Net_Tutar_USD": 208557.71573670208
       }
     ]
   },
   "VAKFN": {
     "Hisse_Kodu": "VAKFN",
     "Hisse_Adi": "VAKIF FİNANSAL KİRALAMA A.Ş.",
-    "Toplam_Net_Nominal_TL": -125441370.0,
-    "Toplam_Net_Tutar_USD": -6581421.7043321915,
+    "Toplam_Net_Nominal_TL": -71269278.0,
+    "Toplam_Net_Tutar_USD": -4386992.684584092,
     "Aylik_Veriler": [
       {
         "ay": "2024-01",
@@ -30455,6 +31430,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -18645301.0,
         "Net_Tutar_USD": -820132.8957417011
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 54172092.0,
+        "Net_Tutar_USD": 2194429.019748099
       }
     ]
   },
@@ -30607,8 +31587,8 @@
   "LMKDC": {
     "Hisse_Kodu": "LMKDC",
     "Hisse_Adi": "LİMAK DOĞU ANADOLU ÇİMENTO SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 6940564.0,
-    "Toplam_Net_Tutar_USD": 5202647.194072902,
+    "Toplam_Net_Nominal_TL": 6226933.0,
+    "Toplam_Net_Tutar_USD": 4692108.363093004,
     "Aylik_Veriler": [
       {
         "ay": "2024-02",
@@ -30729,14 +31709,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2332957.5,
         "Net_Tutar_USD": -1674616.9613642022
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -713631.0,
+        "Net_Tutar_USD": -510538.8309798986
       }
     ]
   },
   "MOGAN": {
     "Hisse_Kodu": "MOGAN",
     "Hisse_Adi": "MOGAN ENERJİ YATIRIM HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 20735575.0,
-    "Toplam_Net_Tutar_USD": 5718253.87195553,
+    "Toplam_Net_Nominal_TL": 19489796.5,
+    "Toplam_Net_Tutar_USD": 5267154.0111379335,
     "Aylik_Veriler": [
       {
         "ay": "2024-03",
@@ -30837,14 +31822,19 @@
         "ay": "2025-12",
         "Net_Nominal_TL": 949062.0,
         "Net_Tutar_USD": 183039.50823904015
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1245778.5,
+        "Net_Tutar_USD": -451099.8608175963
       }
     ]
   },
   "OBAMS": {
     "Hisse_Kodu": "OBAMS",
     "Hisse_Adi": "OBA MAKARNACILIK SANAYI VE TICARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -64980621.0,
-    "Toplam_Net_Tutar_USD": -23874076.3486977,
+    "Toplam_Net_Nominal_TL": -72359278.0,
+    "Toplam_Net_Tutar_USD": -25346761.5527625,
     "Aylik_Veriler": [
       {
         "ay": "2024-03",
@@ -30960,14 +31950,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2079630.5,
         "Net_Tutar_USD": 260512.9383559972
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -7378657.0,
+        "Net_Tutar_USD": -1472685.2040648013
       }
     ]
   },
   "ODINE": {
     "Hisse_Kodu": "ODINE",
     "Hisse_Adi": "ODİNE SOLUTİONS TEKNOLOJİ TİCARET VE SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 2385065.0,
-    "Toplam_Net_Tutar_USD": 4298575.260890577,
+    "Toplam_Net_Nominal_TL": 2316034.0,
+    "Toplam_Net_Tutar_USD": 2477862.1238284744,
     "Aylik_Veriler": [
       {
         "ay": "2024-03",
@@ -31083,14 +32078,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -568753.0,
         "Net_Tutar_USD": -7040207.107130989
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -69031.0,
+        "Net_Tutar_USD": -1820713.1370621026
       }
     ]
   },
   "ENTRA": {
     "Hisse_Kodu": "ENTRA",
     "Hisse_Adi": "IC ENTERRA YENİLENEBİLİR ENERJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 26712148.0,
-    "Toplam_Net_Tutar_USD": 9755948.101610348,
+    "Toplam_Net_Nominal_TL": 19957263.0,
+    "Toplam_Net_Tutar_USD": 7993622.892073147,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -31201,6 +32201,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 5974992.0,
         "Net_Tutar_USD": 1461629.6986318976
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -6754885.0,
+        "Net_Tutar_USD": -1762325.2095372006
       }
     ]
   },
@@ -31255,8 +32260,8 @@
   "IEYHO": {
     "Hisse_Kodu": "IEYHO",
     "Hisse_Adi": "IŞIKLAR ENERJİ VE YAPI HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 98741012.0,
-    "Toplam_Net_Tutar_USD": 135267410.94924134,
+    "Toplam_Net_Nominal_TL": 99028464.0,
+    "Toplam_Net_Tutar_USD": 135191310.76221037,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -31367,14 +32372,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -7758929.0,
         "Net_Tutar_USD": -12433320.68018204
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 287452.0,
+        "Net_Tutar_USD": -76100.18703097105
       }
     ]
   },
   "LRSHO": {
     "Hisse_Kodu": "LRSHO",
     "Hisse_Adi": "LORAS HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 4130382.0,
-    "Toplam_Net_Tutar_USD": 1080127.277936492,
+    "Toplam_Net_Nominal_TL": 13151747.0,
+    "Toplam_Net_Tutar_USD": 1821729.7799820937,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -31415,6 +32425,11 @@
         "ay": "2024-12",
         "Net_Nominal_TL": -2385449.0,
         "Net_Tutar_USD": -187803.22811715957
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 9021365.0,
+        "Net_Tutar_USD": 741602.5020456016
       }
     ]
   },
@@ -31469,8 +32484,8 @@
   "ORGE": {
     "Hisse_Kodu": "ORGE",
     "Hisse_Adi": "ORGE ENERJİ ELEKTRİK TAAHHÜT A.Ş.",
-    "Toplam_Net_Nominal_TL": 1515632.0,
-    "Toplam_Net_Tutar_USD": 4014823.2839941625,
+    "Toplam_Net_Nominal_TL": 4692694.0,
+    "Toplam_Net_Tutar_USD": 9644156.786192164,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -31571,6 +32586,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -469533.0,
         "Net_Tutar_USD": -724574.8245192003
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3177062.0,
+        "Net_Tutar_USD": 5629333.502198001
       }
     ]
   },
@@ -31625,8 +32645,8 @@
   "RALYH": {
     "Hisse_Kodu": "RALYH",
     "Hisse_Adi": "RAL YATIRIM HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 697934.0,
-    "Toplam_Net_Tutar_USD": 11358108.513412397,
+    "Toplam_Net_Nominal_TL": 2948307.0,
+    "Toplam_Net_Tutar_USD": 29310064.0264004,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -31737,14 +32757,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 478499.0,
         "Net_Tutar_USD": 1586007.333568409
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2250373.0,
+        "Net_Tutar_USD": 17951955.512988
       }
     ]
   },
   "RGYAS": {
     "Hisse_Kodu": "RGYAS",
     "Hisse_Adi": "RÖNESANS GAYRİMENKUL YATIRIM A.Ş.",
-    "Toplam_Net_Nominal_TL": -5528951.0,
-    "Toplam_Net_Tutar_USD": -16742479.86438312,
+    "Toplam_Net_Nominal_TL": -1841196.0,
+    "Toplam_Net_Tutar_USD": -2020540.066649221,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -31855,6 +32880,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -961171.0,
         "Net_Tutar_USD": -3497926.773004696
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3687755.0,
+        "Net_Tutar_USD": 14721939.7977339
       }
     ]
   },
@@ -31909,8 +32939,8 @@
   "TSPOR": {
     "Hisse_Kodu": "TSPOR",
     "Hisse_Adi": "TRABZONSPOR SPORTİF YATIRIM VE FUTBOL İŞLETMECİLİĞİ TİCARET A.Ş.  ",
-    "Toplam_Net_Nominal_TL": -6343350.0,
-    "Toplam_Net_Tutar_USD": -3190276.5312225344,
+    "Toplam_Net_Nominal_TL": 76607855.5,
+    "Toplam_Net_Tutar_USD": -1425800.1513814377,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -32021,14 +33051,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -34734574.0,
         "Net_Tutar_USD": -724002.815349102
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 82951205.5,
+        "Net_Tutar_USD": 1764476.3798410967
       }
     ]
   },
   "TUREX": {
     "Hisse_Kodu": "TUREX",
     "Hisse_Adi": "TUREKS TURİZM TAŞIMACILIK A.Ş.",
-    "Toplam_Net_Nominal_TL": -7675991.0,
-    "Toplam_Net_Tutar_USD": 11089782.228995692,
+    "Toplam_Net_Nominal_TL": -14178186.0,
+    "Toplam_Net_Tutar_USD": 9633943.774365488,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -32139,14 +33174,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -10357524.0,
         "Net_Tutar_USD": -1789670.6660544015
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -6502195.0,
+        "Net_Tutar_USD": -1455838.4546302035
       }
     ]
   },
   "USAK": {
     "Hisse_Kodu": "USAK",
     "Hisse_Adi": "UŞAK SERAMİK SANAYİİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 65713687.0,
-    "Toplam_Net_Tutar_USD": -1099723.3283253228,
+    "Toplam_Net_Nominal_TL": 90206790.0,
+    "Toplam_Net_Tutar_USD": -352288.6374817258,
     "Aylik_Veriler": [
       {
         "ay": "2024-04",
@@ -32217,14 +33257,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 53499876.0,
         "Net_Tutar_USD": 1928697.3889851011
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 24493103.0,
+        "Net_Tutar_USD": 747434.690843597
       }
     ]
   },
   "ALTNY": {
     "Hisse_Kodu": "ALTNY",
     "Hisse_Adi": "ALTINAY SAVUNMA TEKNOLOJİLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 2800590.0,
-    "Toplam_Net_Tutar_USD": 2865273.050614193,
+    "Toplam_Net_Nominal_TL": 21016222.0,
+    "Toplam_Net_Tutar_USD": 9283611.410716996,
     "Aylik_Veriler": [
       {
         "ay": "2024-05",
@@ -32330,14 +33375,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2085587.0,
         "Net_Tutar_USD": -902671.4102033079
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 18215632.0,
+        "Net_Tutar_USD": 6418338.3601028025
       }
     ]
   },
   "HRKET": {
     "Hisse_Kodu": "HRKET",
     "Hisse_Adi": "HAREKET PROJE TAŞIMACILIĞI VE YÜK MÜHENDİSLİĞİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 1680850.0,
-    "Toplam_Net_Tutar_USD": 2824182.0304928618,
+    "Toplam_Net_Nominal_TL": 1572903.0,
+    "Toplam_Net_Tutar_USD": 2684865.8560410617,
     "Aylik_Veriler": [
       {
         "ay": "2024-05",
@@ -32443,14 +33493,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -798858.0,
         "Net_Tutar_USD": -1236254.6992069809
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -107947.0,
+        "Net_Tutar_USD": -139316.17445180006
       }
     ]
   },
   "KOCMT": {
     "Hisse_Kodu": "KOCMT",
     "Hisse_Adi": "KOÇ METALURJİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 43636949.5,
-    "Toplam_Net_Tutar_USD": 3721998.7635888644,
+    "Toplam_Net_Nominal_TL": 54972221.5,
+    "Toplam_Net_Tutar_USD": 4354562.411069265,
     "Aylik_Veriler": [
       {
         "ay": "2024-05",
@@ -32516,14 +33571,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -5378722.0,
         "Net_Tutar_USD": -301721.3416104298
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 11335272.0,
+        "Net_Tutar_USD": 632563.6474804003
       }
     ]
   },
   "KOTON": {
     "Hisse_Kodu": "KOTON",
     "Hisse_Adi": "KOTON MAĞAZACILIK TEKSTİL SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 2526228.0,
-    "Toplam_Net_Tutar_USD": 3371930.940060122,
+    "Toplam_Net_Nominal_TL": 4882827.0,
+    "Toplam_Net_Tutar_USD": 4179684.059023562,
     "Aylik_Veriler": [
       {
         "ay": "2024-05",
@@ -32629,14 +33689,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2974060.5,
         "Net_Tutar_USD": -1018147.0589709291
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2356599.0,
+        "Net_Tutar_USD": 807753.11896344
       }
     ]
   },
   "LILAK": {
     "Hisse_Kodu": "LILAK",
     "Hisse_Adi": "LİLA KAĞIT SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 11631698.0,
-    "Toplam_Net_Tutar_USD": 5895407.178952193,
+    "Toplam_Net_Nominal_TL": 14057937.0,
+    "Toplam_Net_Tutar_USD": 8017117.02040269,
     "Aylik_Veriler": [
       {
         "ay": "2024-05",
@@ -32742,6 +33807,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 10517051.0,
         "Net_Tutar_USD": 8236426.532412693
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2426239.0,
+        "Net_Tutar_USD": 2121709.8414504975
       }
     ]
   },
@@ -32999,8 +34069,8 @@
   "BSOKE": {
     "Hisse_Kodu": "BSOKE",
     "Hisse_Adi": "BATISÖKE SÖKE ÇİMENTO SANAYİİ T.A.Ş.",
-    "Toplam_Net_Nominal_TL": 5356339.0,
-    "Toplam_Net_Tutar_USD": 12549691.799938973,
+    "Toplam_Net_Nominal_TL": 19353973.0,
+    "Toplam_Net_Tutar_USD": 23388034.631007273,
     "Aylik_Veriler": [
       {
         "ay": "2024-07",
@@ -33096,6 +34166,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -6246572.0,
         "Net_Tutar_USD": -4616423.2565303
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 13997634.0,
+        "Net_Tutar_USD": 10838342.8310683
       }
     ]
   },
@@ -33246,8 +34321,8 @@
   "EGPRO": {
     "Hisse_Kodu": "EGPRO",
     "Hisse_Adi": "EGE PROFİL TİCARET VE SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 106461.0,
-    "Toplam_Net_Tutar_USD": 915930.6897578696,
+    "Toplam_Net_Nominal_TL": 198592.0,
+    "Toplam_Net_Tutar_USD": 1021264.0919934707,
     "Aylik_Veriler": [
       {
         "ay": "2024-07",
@@ -33273,6 +34348,11 @@
         "ay": "2024-12",
         "Net_Nominal_TL": -153684.0,
         "Net_Tutar_USD": -715829.6368787503
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 92131.0,
+        "Net_Tutar_USD": 105333.4022356011
       }
     ]
   },
@@ -33434,8 +34514,8 @@
   "PAPIL": {
     "Hisse_Kodu": "PAPIL",
     "Hisse_Adi": "PAPİLON SAVUNMA TEKNOLOJİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 41080.0,
-    "Toplam_Net_Tutar_USD": -3031142.0980490334,
+    "Toplam_Net_Nominal_TL": -633457.0,
+    "Toplam_Net_Tutar_USD": -3311200.3011238314,
     "Aylik_Veriler": [
       {
         "ay": "2024-07",
@@ -33531,14 +34611,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 443363.5,
         "Net_Tutar_USD": 51702.53322170675
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -674537.0,
+        "Net_Tutar_USD": -280058.203074798
       }
     ]
   },
   "PATEK": {
     "Hisse_Kodu": "PATEK",
     "Hisse_Adi": "PASİFİK DONANIM VE YAZILIM BİLGİ TEKNOLOJİLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 9974706.0,
-    "Toplam_Net_Tutar_USD": 8585019.84663783,
+    "Toplam_Net_Nominal_TL": 5246587.0,
+    "Toplam_Net_Tutar_USD": 6371261.20092383,
     "Aylik_Veriler": [
       {
         "ay": "2024-07",
@@ -33634,6 +34719,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 3428521.0,
         "Net_Tutar_USD": 1255382.0270420983
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -4728119.0,
+        "Net_Tutar_USD": -2213758.645714
       }
     ]
   },
@@ -34082,8 +35172,8 @@
   "LYDHO": {
     "Hisse_Kodu": "LYDHO",
     "Hisse_Adi": "LYDİA HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 9003264.0,
-    "Toplam_Net_Tutar_USD": 31448725.18790133,
+    "Toplam_Net_Nominal_TL": 10234628.0,
+    "Toplam_Net_Tutar_USD": 36709461.26539303,
     "Aylik_Veriler": [
       {
         "ay": "2024-08",
@@ -34174,14 +35264,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1127743.0,
         "Net_Tutar_USD": 5008048.639545798
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1231364.0,
+        "Net_Tutar_USD": 5260736.077491701
       }
     ]
   },
   "TCKRC": {
     "Hisse_Kodu": "TCKRC",
     "Hisse_Adi": "KIRAÇ GALVANİZ TELEKOMİNİKASYON METAL MAKİNE İNŞAAT ELEKTRİK SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 668534.0,
-    "Toplam_Net_Tutar_USD": -3645739.8476541005,
+    "Toplam_Net_Nominal_TL": 3237209.0,
+    "Toplam_Net_Tutar_USD": 2166603.719538804,
     "Aylik_Veriler": [
       {
         "ay": "2024-08",
@@ -34217,14 +35312,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1380973.0,
         "Net_Tutar_USD": -2779566.691736698
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2568675.0,
+        "Net_Tutar_USD": 5812343.567192905
       }
     ]
   },
   "BJKAS": {
     "Hisse_Kodu": "BJKAS",
     "Hisse_Adi": "BEŞİKTAŞ FUTBOL YATIRIMLARI SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 1993627.0,
-    "Toplam_Net_Tutar_USD": 237025.03796405904,
+    "Toplam_Net_Nominal_TL": 16932088.0,
+    "Toplam_Net_Tutar_USD": 510125.5107181575,
     "Aylik_Veriler": [
       {
         "ay": "2024-09",
@@ -34310,14 +35410,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -15546565.0,
         "Net_Tutar_USD": -486365.7045041602
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 14938461.0,
+        "Net_Tutar_USD": 273100.4727540985
       }
     ]
   },
   "CEMZY": {
     "Hisse_Kodu": "CEMZY",
     "Hisse_Adi": "CEM ZEYTİN A..Ş.",
-    "Toplam_Net_Nominal_TL": 8725930.0,
-    "Toplam_Net_Tutar_USD": 7856880.232371999,
+    "Toplam_Net_Nominal_TL": 17884731.0,
+    "Toplam_Net_Tutar_USD": 16184500.063807799,
     "Aylik_Veriler": [
       {
         "ay": "2024-09",
@@ -34358,14 +35463,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2488689.0,
         "Net_Tutar_USD": 3808931.474591702
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 9158801.0,
+        "Net_Tutar_USD": 8327619.8314358
       }
     ]
   },
   "OZATD": {
     "Hisse_Kodu": "OZATD",
     "Hisse_Adi": "ÖZATA DENİZCİLİK SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 1937193.0,
-    "Toplam_Net_Tutar_USD": 6570535.817459889,
+    "Toplam_Net_Nominal_TL": 4278719.0,
+    "Toplam_Net_Tutar_USD": 17290372.236592293,
     "Aylik_Veriler": [
       {
         "ay": "2024-09",
@@ -34436,6 +35546,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 522497.0,
         "Net_Tutar_USD": 2483387.1243454963
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2341526.0,
+        "Net_Tutar_USD": 10719836.419132404
       }
     ]
   },
@@ -34514,8 +35629,8 @@
   "BINBN": {
     "Hisse_Kodu": "BINBN",
     "Hisse_Adi": "BİN ULAŞIM VE AKILLI ŞEHİR TEKNOLOJİLERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 2626518.5,
-    "Toplam_Net_Tutar_USD": 4524446.331578305,
+    "Toplam_Net_Nominal_TL": 2553625.5,
+    "Toplam_Net_Tutar_USD": 3942192.104351705,
     "Aylik_Veriler": [
       {
         "ay": "2024-11",
@@ -34596,6 +35711,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 347527.0,
         "Net_Tutar_USD": 1210757.2508655004
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -72893.0,
+        "Net_Tutar_USD": -582254.2272266
       }
     ]
   },
@@ -34638,8 +35758,8 @@
   "GRTHO": {
     "Hisse_Kodu": "GRTHO",
     "Hisse_Adi": "GRAINTURK HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": -238236.0,
-    "Toplam_Net_Tutar_USD": 4302087.739522789,
+    "Toplam_Net_Nominal_TL": -2257080.5,
+    "Toplam_Net_Tutar_USD": -7822045.147496309,
     "Aylik_Veriler": [
       {
         "ay": "2024-11",
@@ -34720,6 +35840,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -430133.0,
         "Net_Tutar_USD": -2415131.166136697
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -2018844.5,
+        "Net_Tutar_USD": -12124132.887019098
       }
     ]
   },
@@ -34744,8 +35869,8 @@
   "LINK": {
     "Hisse_Kodu": "LINK",
     "Hisse_Adi": "LİNK BİLGİSAYAR SİSTEMLERİ YAZILIMI VE DONANIMI VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -8285879.0,
-    "Toplam_Net_Tutar_USD": -9279746.64769548,
+    "Toplam_Net_Nominal_TL": 3685995.0,
+    "Toplam_Net_Tutar_USD": -7867597.734910281,
     "Aylik_Veriler": [
       {
         "ay": "2024-11",
@@ -34826,6 +35951,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -8051315.0,
         "Net_Tutar_USD": -2357237.0119092017
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 11971874.0,
+        "Net_Tutar_USD": 1412148.9127851985
       }
     ]
   },
@@ -34940,8 +36070,8 @@
   "AKFIS": {
     "Hisse_Kodu": "AKFIS",
     "Hisse_Adi": "AKFEN İNŞAAT TURİZM VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 1245151.0,
-    "Toplam_Net_Tutar_USD": 1014399.3582749879,
+    "Toplam_Net_Nominal_TL": 3773632.0,
+    "Toplam_Net_Tutar_USD": 3533256.987666494,
     "Aylik_Veriler": [
       {
         "ay": "2025-02",
@@ -35012,14 +36142,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -1932937.0,
         "Net_Tutar_USD": -1375588.255414009
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2528481.0,
+        "Net_Tutar_USD": 2518857.6293915063
       }
     ]
   },
   "ARMGD": {
     "Hisse_Kodu": "ARMGD",
     "Hisse_Adi": "ARMADA GIDA TİCARET SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 4422316.0,
-    "Toplam_Net_Tutar_USD": 3978993.219311107,
+    "Toplam_Net_Nominal_TL": 6433311.0,
+    "Toplam_Net_Tutar_USD": 9894427.664947707,
     "Aylik_Veriler": [
       {
         "ay": "2025-02",
@@ -35090,14 +36225,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -2243717.0,
         "Net_Tutar_USD": -3995431.3445193004
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 2010995.0,
+        "Net_Tutar_USD": 5915434.4456366
       }
     ]
   },
   "BALSU": {
     "Hisse_Kodu": "BALSU",
     "Hisse_Adi": "BALSU GIDA SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 23961949.0,
-    "Toplam_Net_Tutar_USD": 13844485.382223936,
+    "Toplam_Net_Nominal_TL": 19252018.0,
+    "Toplam_Net_Tutar_USD": 12153218.131800437,
     "Aylik_Veriler": [
       {
         "ay": "2025-02",
@@ -35168,14 +36308,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2314151.0,
         "Net_Tutar_USD": 753444.7369960994
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -4709931.0,
+        "Net_Tutar_USD": -1691267.2504234985
       }
     ]
   },
   "DSTKF": {
     "Hisse_Kodu": "DSTKF",
     "Hisse_Adi": "DESTEK FINANS FAKTORING A.Ş.",
-    "Toplam_Net_Nominal_TL": 1180645.0,
-    "Toplam_Net_Tutar_USD": 116048717.81018484,
+    "Toplam_Net_Nominal_TL": 977828.0,
+    "Toplam_Net_Tutar_USD": 96586795.62884685,
     "Aylik_Veriler": [
       {
         "ay": "2025-02",
@@ -35246,14 +36391,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2074111.0,
         "Net_Tutar_USD": 82936502.87870699
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -202817.0,
+        "Net_Tutar_USD": -19461922.181337982
       }
     ]
   },
   "GLRMK": {
     "Hisse_Kodu": "GLRMK",
     "Hisse_Adi": "GÜLERMAK AĞIR SANAYİ İNŞAAT VE TAAHHÜT A.Ş.",
-    "Toplam_Net_Nominal_TL": 850347.5,
-    "Toplam_Net_Tutar_USD": 5407199.235453274,
+    "Toplam_Net_Nominal_TL": 13891442.0,
+    "Toplam_Net_Tutar_USD": 69989844.55305925,
     "Aylik_Veriler": [
       {
         "ay": "2025-02",
@@ -35324,14 +36474,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3796605.5,
         "Net_Tutar_USD": -14389118.416926011
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 13041094.5,
+        "Net_Tutar_USD": 64582645.31760597
       }
     ]
   },
   "KLYPV": {
     "Hisse_Kodu": "KLYPV",
     "Hisse_Adi": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
-    "Toplam_Net_Nominal_TL": 944056.0,
-    "Toplam_Net_Tutar_USD": -294201.99643513747,
+    "Toplam_Net_Nominal_TL": 1702120.0,
+    "Toplam_Net_Tutar_USD": 750587.8294937629,
     "Aylik_Veriler": [
       {
         "ay": "2025-02",
@@ -35402,14 +36557,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -314708.0,
         "Net_Tutar_USD": -413245.5482854992
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 758064.0,
+        "Net_Tutar_USD": 1044789.8259289004
       }
     ]
   },
   "MOPAS": {
     "Hisse_Kodu": "MOPAS",
     "Hisse_Adi": "MOPAŞ MARKETÇİLİK GIDA SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -5462783.0,
-    "Toplam_Net_Tutar_USD": -6006470.769801782,
+    "Toplam_Net_Nominal_TL": -5846915.0,
+    "Toplam_Net_Tutar_USD": -6402951.372850584,
     "Aylik_Veriler": [
       {
         "ay": "2025-02",
@@ -35480,14 +36640,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -3376888.0,
         "Net_Tutar_USD": -3819923.7848420963
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -384132.0,
+        "Net_Tutar_USD": -396480.6030488014
       }
     ]
   },
   "BESLR": {
     "Hisse_Kodu": "BESLR",
     "Hisse_Adi": "BESLER GIDA VE KİMYA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
-    "Toplam_Net_Nominal_TL": -12475243.5,
-    "Toplam_Net_Tutar_USD": -4741060.416527557,
+    "Toplam_Net_Nominal_TL": -8899223.5,
+    "Toplam_Net_Tutar_USD": -3617692.953465416,
     "Aylik_Veriler": [
       {
         "ay": "2025-06",
@@ -35538,14 +36703,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -441743.0,
         "Net_Tutar_USD": -194798.90931119956
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 3576020.0,
+        "Net_Tutar_USD": 1123367.463062141
       }
     ]
   },
   "BIGEN": {
     "Hisse_Kodu": "BIGEN",
     "Hisse_Adi": "BİRLEŞİM GRUP ENERJİ YATIRIMLARI A.Ş.",
-    "Toplam_Net_Nominal_TL": -1553654.0,
-    "Toplam_Net_Tutar_USD": -646164.3146031238,
+    "Toplam_Net_Nominal_TL": 26731567.0,
+    "Toplam_Net_Tutar_USD": 8428716.33451147,
     "Aylik_Veriler": [
       {
         "ay": "2025-07",
@@ -35591,6 +36761,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -187998.0,
         "Net_Tutar_USD": -58741.07456090115
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 28285221.0,
+        "Net_Tutar_USD": 9074880.649114594
       }
     ]
   },
@@ -35650,8 +36825,8 @@
   "DOFRB": {
     "Hisse_Kodu": "DOFRB",
     "Hisse_Adi": "DOF ROBOTİK SANAYİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 6228832.0,
-    "Toplam_Net_Tutar_USD": 8236321.5972837955,
+    "Toplam_Net_Nominal_TL": 5153214.0,
+    "Toplam_Net_Tutar_USD": 5172518.032027796,
     "Aylik_Veriler": [
       {
         "ay": "2025-09",
@@ -35687,14 +36862,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 5701849.5,
         "Net_Tutar_USD": 12180668.078033
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -1075618.0,
+        "Net_Tutar_USD": -3063803.5652559996
       }
     ]
   },
   "IHLAS": {
     "Hisse_Kodu": "IHLAS",
     "Hisse_Adi": "İHLAS HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 45912570.0,
-    "Toplam_Net_Tutar_USD": 1798981.0472747944,
+    "Toplam_Net_Nominal_TL": 97329142.0,
+    "Toplam_Net_Tutar_USD": 4157745.8258163966,
     "Aylik_Veriler": [
       {
         "ay": "2025-10",
@@ -35725,6 +36905,11 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 41240101.0,
         "Net_Tutar_USD": 1863784.9688990973
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 51416572.0,
+        "Net_Tutar_USD": 2358764.778541602
       }
     ]
   },
@@ -35769,8 +36954,8 @@
   "EFOR": {
     "Hisse_Kodu": "EFOR",
     "Hisse_Adi": "EFOR YATIRIM SANAYİ TİCARET ANONİM ŞİRKETİ",
-    "Toplam_Net_Nominal_TL": 36673176.0,
-    "Toplam_Net_Tutar_USD": 11339867.372570708,
+    "Toplam_Net_Nominal_TL": -43839195.0,
+    "Toplam_Net_Tutar_USD": -8453578.398118243,
     "Aylik_Veriler": [
       {
         "ay": "2025-11",
@@ -35796,14 +36981,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 58638198.0,
         "Net_Tutar_USD": 21162902.658361405
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -80512371.0,
+        "Net_Tutar_USD": -19793445.77068895
       }
     ]
   },
   "PAHOL": {
     "Hisse_Kodu": "PAHOL",
     "Hisse_Adi": "PASİFİK HOLDİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 247536675.0,
-    "Toplam_Net_Tutar_USD": 7250380.835513823,
+    "Toplam_Net_Nominal_TL": 350063011.0,
+    "Toplam_Net_Tutar_USD": 10784030.123669825,
     "Aylik_Veriler": [
       {
         "ay": "2025-11",
@@ -35829,14 +37019,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 9775070.0,
         "Net_Tutar_USD": 52480.716476902366
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 102526336.0,
+        "Net_Tutar_USD": 3533649.2881560028
       }
     ]
   },
   "TRALT": {
     "Hisse_Kodu": "TRALT",
     "Hisse_Adi": "TÜRK ALTIN İŞLETMELERİ A.Ş. ",
-    "Toplam_Net_Nominal_TL": 63199475.5,
-    "Toplam_Net_Tutar_USD": 68974237.78189826,
+    "Toplam_Net_Nominal_TL": -7291505.5,
+    "Toplam_Net_Tutar_USD": -2028130.1104857922,
     "Aylik_Veriler": [
       {
         "ay": "2025-11",
@@ -35862,14 +37057,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -60500546.5,
         "Net_Tutar_USD": -66894573.930282
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -70490981.0,
+        "Net_Tutar_USD": -71002367.89238405
       }
     ]
   },
   "VAKFA": {
     "Hisse_Kodu": "VAKFA",
     "Hisse_Adi": "VAKIF FAKTORİNG A.Ş.",
-    "Toplam_Net_Nominal_TL": 2904264.0,
-    "Toplam_Net_Tutar_USD": 914240.6704829074,
+    "Toplam_Net_Nominal_TL": 2586186.0,
+    "Toplam_Net_Tutar_USD": 765872.3539664112,
     "Aylik_Veriler": [
       {
         "ay": "2025-11",
@@ -35895,14 +37095,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -655192.0,
         "Net_Tutar_USD": -177012.58996410295
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -318078.0,
+        "Net_Tutar_USD": -148368.31651649624
       }
     ]
   },
   "TRENJ": {
     "Hisse_Kodu": "TRENJ",
     "Hisse_Adi": "TR DOĞAL ENERJİ KAYNAKLARI ARAŞTIRMA VE ÜRETİM A.Ş.",
-    "Toplam_Net_Nominal_TL": 10276780.0,
-    "Toplam_Net_Tutar_USD": 22535900.679439798,
+    "Toplam_Net_Nominal_TL": 9662151.0,
+    "Toplam_Net_Tutar_USD": 21221455.6577001,
     "Aylik_Veriler": [
       {
         "ay": "2025-12",
@@ -35923,14 +37128,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1163547.0,
         "Net_Tutar_USD": 2710322.5409630984
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -614629.0,
+        "Net_Tutar_USD": -1314445.021739699
       }
     ]
   },
   "TRMET": {
     "Hisse_Kodu": "TRMET",
     "Hisse_Adi": "TR ANADOLU METAL MADENCİLİK İŞLETMELERİ A.Ş.",
-    "Toplam_Net_Nominal_TL": 11104888.5,
-    "Toplam_Net_Tutar_USD": 30037046.192862988,
+    "Toplam_Net_Nominal_TL": 8957502.5,
+    "Toplam_Net_Tutar_USD": 23964253.15773098,
     "Aylik_Veriler": [
       {
         "ay": "2025-12",
@@ -35951,14 +37161,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -7294496.5,
         "Net_Tutar_USD": -21760079.271046996
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -2147386.0,
+        "Net_Tutar_USD": -6072793.035132006
       }
     ]
   },
   "ZERGY": {
     "Hisse_Kodu": "ZERGY",
     "Hisse_Adi": "ZERAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-    "Toplam_Net_Nominal_TL": 1949612.0,
-    "Toplam_Net_Tutar_USD": -1005484.5514459908,
+    "Toplam_Net_Nominal_TL": 3067463.0,
+    "Toplam_Net_Tutar_USD": -339338.3289671838,
     "Aylik_Veriler": [
       {
         "ay": "2025-12",
@@ -35979,14 +37194,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -5644695.0,
         "Net_Tutar_USD": -2517694.697048001
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1117851.0,
+        "Net_Tutar_USD": 666146.222478807
       }
     ]
   },
   "GENTS": {
     "Hisse_Kodu": "GENTS",
     "Hisse_Adi": "GENTAŞ DEKORATİF YÜZEYLER SANAYİ VE TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": 312989.0,
-    "Toplam_Net_Tutar_USD": -157429.4794173017,
+    "Toplam_Net_Nominal_TL": 11231782.0,
+    "Toplam_Net_Tutar_USD": 1636801.2962151952,
     "Aylik_Veriler": [
       {
         "ay": "2026-01",
@@ -36002,14 +37222,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 2523679.0,
         "Net_Tutar_USD": 438053.70016239956
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 10918793.0,
+        "Net_Tutar_USD": 1794230.775632497
       }
     ]
   },
   "ISKPL": {
     "Hisse_Kodu": "ISKPL",
     "Hisse_Adi": "IŞIK PLASTİK SANAYİ VE DIŞ TİCARET PAZARLAMA A.Ş.",
-    "Toplam_Net_Nominal_TL": -36357302.0,
-    "Toplam_Net_Tutar_USD": -10558552.963147003,
+    "Toplam_Net_Nominal_TL": -20924464.5,
+    "Toplam_Net_Tutar_USD": -4590690.450734008,
     "Aylik_Veriler": [
       {
         "ay": "2026-01",
@@ -36025,14 +37250,19 @@
         "ay": "2026-03",
         "Net_Nominal_TL": -12548096.0,
         "Net_Tutar_USD": -3743379.989325002
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 15432837.5,
+        "Net_Tutar_USD": 5967862.512412995
       }
     ]
   },
   "ATATR": {
     "Hisse_Kodu": "ATATR",
     "Hisse_Adi": "ATA TURİZM İŞLETMECİLİK TAŞIMACILIK MADENCİLİK KUYUMCULUK SANAYİ VE DIŞ TİCARET A.Ş.",
-    "Toplam_Net_Nominal_TL": -23352490.0,
-    "Toplam_Net_Tutar_USD": -8567031.805539787,
+    "Toplam_Net_Nominal_TL": -24214698.0,
+    "Toplam_Net_Tutar_USD": -8865651.853289783,
     "Aylik_Veriler": [
       {
         "ay": "2026-02",
@@ -36043,6 +37273,76 @@
         "ay": "2026-03",
         "Net_Nominal_TL": 1589417.0,
         "Net_Tutar_USD": 226163.05708801746
+      },
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -862208.0,
+        "Net_Tutar_USD": -298620.0477499962
+      }
+    ]
+  },
+  "AAGYO": {
+    "Hisse_Kodu": "AAGYO",
+    "Hisse_Adi": "AĞAOĞLU AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "Toplam_Net_Nominal_TL": -16177219.0,
+    "Toplam_Net_Tutar_USD": -8863984.26925899,
+    "Aylik_Veriler": [
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -16177219.0,
+        "Net_Tutar_USD": -8863984.26925899
+      }
+    ]
+  },
+  "BARMA": {
+    "Hisse_Kodu": "BARMA",
+    "Hisse_Adi": "BAREM AMBALAJ SANAYİ VE TİCARET A.Ş.",
+    "Toplam_Net_Nominal_TL": 1909184.0,
+    "Toplam_Net_Tutar_USD": 2350877.8215318006,
+    "Aylik_Veriler": [
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 1909184.0,
+        "Net_Tutar_USD": 2350877.8215318006
+      }
+    ]
+  },
+  "ECOGR": {
+    "Hisse_Kodu": "ECOGR",
+    "Hisse_Adi": "ECOGREEN ENERJİ HOLDİNG A.Ş.",
+    "Toplam_Net_Nominal_TL": 4862767.0,
+    "Toplam_Net_Tutar_USD": 3984801.942166701,
+    "Aylik_Veriler": [
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 4862767.0,
+        "Net_Tutar_USD": 3984801.942166701
+      }
+    ]
+  },
+  "GMTAS": {
+    "Hisse_Kodu": "GMTAS",
+    "Hisse_Adi": "GİMAT MAĞAZACILIK SANAYİ VE TİCARET A.Ş.",
+    "Toplam_Net_Nominal_TL": 10940348.0,
+    "Toplam_Net_Tutar_USD": 10148257.9881154,
+    "Aylik_Veriler": [
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": 10940348.0,
+        "Net_Tutar_USD": 10148257.9881154
+      }
+    ]
+  },
+  "PAGYO": {
+    "Hisse_Kodu": "PAGYO",
+    "Hisse_Adi": "PANORA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. ",
+    "Toplam_Net_Nominal_TL": -53917.0,
+    "Toplam_Net_Tutar_USD": -167508.47313837986,
+    "Aylik_Veriler": [
+      {
+        "ay": "2026-04",
+        "Net_Nominal_TL": -53917.0,
+        "Net_Tutar_USD": -167508.47313837986
       }
     ]
   }
